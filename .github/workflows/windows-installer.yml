@@ -75,8 +75,8 @@ jobs:
           if ([IO.Path]::GetFullPath($link.TargetPath) -ne [IO.Path]::GetFullPath($appExe.FullName)) { throw "Desktop shortcut points to the wrong executable" }
           $env:AFTERGLOW_USER_DATA_DIR = Join-Path $env:RUNNER_TEMP "Afterglow-Installed-QA"
           New-Item -ItemType Directory -Force -Path $env:AFTERGLOW_USER_DATA_DIR | Out-Null
-          & $appExe.FullName
-          if ($LASTEXITCODE -ne 0) { throw "Installed app QA failed with exit code $LASTEXITCODE" }
+          $installedRun = Start-Process -FilePath $appExe.FullName -Wait -PassThru -WindowStyle Hidden
+          if ($installedRun.ExitCode -ne 0) { throw "Installed app QA failed with exit code $($installedRun.ExitCode)" }
 
       - name: Publish versioned GitHub Release
         if: github.ref == 'refs/heads/main'

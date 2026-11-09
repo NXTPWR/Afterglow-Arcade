@@ -49,13 +49,14 @@
     const observer = new IntersectionObserver((entries, instance) => {
       entries.forEach((entry) => {
         if (entry.isIntersecting) {
-          entry.target.classList.add('is-visible');
+          entry.target.classList.add('in-view');
           instance.unobserve(entry.target);
         }
       });
     }, { threshold: 0.12, rootMargin: '0px 0px -32px 0px' });
     revealItems.forEach((item) => observer.observe(item));
-  } else revealItems.forEach((item) => item.classList.add('is-visible'));
+  } else revealItems.forEach((item) => item.classList.add('in-view'));
+  document.body.classList.add('reveal-ready');
 
   if (!reducedMotion && matchMedia('(pointer: fine)').matches) {
     $$('.game-card').forEach((card) => {

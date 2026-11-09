@@ -1,35 +1,1 @@
-{
-  "name": "afterglow-arcade",
-  "version": "1.0.0",
-  "main": "src/main.cjs",
-  "scripts": {
-    "start": "electron .",
-    "dist": "electron-builder --win nsis"
-  },
-  "devDependencies": {
-    "electron": "^33.2.1",
-    "electron-builder": "^25.1.8"
-  },
-  "build": {
-    "appId": "com.afterglow.arcade",
-    "productName": "Afterglow Arcade",
-    "files": [
-      "src/**/*",
-      "index.html",
-      "styles.css",
-      "game.js",
-      "assets/**/*"
-    ],
-    "win": {
-      "target": "nsis",
-      "icon": "assets/icon.ico"
-    },
-    "nsis": {
-      "oneClick": false,
-      "createDesktopShortcut": true,
-      "createStartMenuShortcut": true
-    }
-  },
-  "description": "Six focused mini-games in a premium Windows desktop arcade",
-  "author": "Afterglow Arcade"
-}
+YªçŠx³¬uç%j·Â+ar‰ì¶ë•ë_¢ºŞjË"‚v›•ëÚ®&›•ëÂˆ›˜[YHˆ˜Y\™ÛİËX\˜ØYH‹ˆ™\œÚ[ÛˆˆŒKŒŒ‹ˆ›XZ[ˆˆœÜ˜ËÛXZ[‹˜ÚœÈ‹ˆœØÜš\ÈˆÂˆœİ\ˆ™[Xİ›Ûˆˆ‹ˆ™\İˆ™[Xİ›Û‹XZ[\ˆK]Ú[ˆœÚ\È‹ˆ\İˆ››ÙHK]\İ‹ˆœXHˆ™[Xİ›Ûˆˆ‚ˆKˆ™]‘\[™[˜ÚY\ÈˆÂˆ™[Xİ›Ûˆˆ—ŒÌËŒ‹ŒH‹ˆ™[Xİ›Û‹XZ[\ˆˆ—ŒKŒK‚ˆKˆ˜Z[ˆÂˆ˜\Yˆ˜ÛÛK˜Y\™ÛİË˜\˜ØYH‹ˆœ›ÙXİ˜[YHˆY\™ÛİÈ\˜ØYHÛXˆ‹ˆ™š[\ÈˆÂˆœÜ˜ËÊŠ‹Êˆ‹ˆš[™^š[‹ˆœİ[\Ë˜ÜÜÈ‹ˆ™Ø[YKšœÈ‹ˆ™Ø[YKXÛÜ™KšœÈ‹ˆ˜\ÜÙ]ËÊŠ‹Êˆ‚ˆKˆÚ[ˆˆÂˆ\™Ù]ˆ›œÚ\È‹ˆšXÛÛˆˆ˜\ÜÙ]ËÚXÛÛ‹šXÛÈ‚ˆKˆ›œÚ\ÈˆÂˆ›Û™PÛXÚÈˆ˜[ÙKˆ˜Ü™X]Q\ÚİÜÚÜİ]ˆYKˆ˜Ü™X]Tİ\Y[TÚÜİ]ˆYBˆKˆ™[Xİ›Û‘\İˆ››ÙWÛ[Ù[\ËÙ[Xİ›Û‹Ù\İ‹ˆ˜\Y˜Xİ˜[YHˆY\™ÛİËP\˜ØYKPÛX‹TÙ]\‰Ù^H‚ˆKˆ™\ØÜš\[Ûˆˆ”Ú^›Øİ\ÙYZ[šKYØ[Y\È[ˆH™[Z][HÚ[™İÜÈ\ÚİÜ\˜ØYH‹ˆ˜]]ÜˆˆY\™ÛİÈ\˜ØYH‚ŸB

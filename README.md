@@ -1,11 +1,23 @@
-# Afterglow Arcade
-A Windows desktop game collection source project and separate informational website.
-## Desktop
-Node.js 20+. Run `npm install`, then `npm start`. To build the Windows NSIS installer, run `npm run dist` on Windows. The config creates desktop/start-menu shortcuts and supports uninstall through NSIS.
+# Afterglow Arcade Club
+
+A six-game Windows desktop arcade with a separate informational website.
+
+## Download
+
+Get the Windows 10/11 x64 installer from the [latest GitHub Release](https://github.com/NXTPWR/Afterglow-Arcade/releases/latest/download/Afterglow-Arcade-Club-Setup.exe). The v1.0.0 installer is about 82 MB. It is unsigned, so Windows may show a SmartScreen warning.
+
+## Games and saves
+
+The desktop app includes Perfect Circle, Krillion: The Daily Dive, Perceptle, Head Count, Draw Logos From Memory, and Contexto. Best scores and round history are stored locally on the device. Gamer Percentage appears after all six games have a score and averages each game’s best result.
+
+The account button currently sets a local display name only. Online sign-in, sign-up, password recovery, and cloud sync are not configured; the app does not collect passwords.
+
+## Build
+
+Requires Node.js 20+. Run `npm ci`, `npm start`, or `npm run dist` on Windows to create the installer. The GitHub Actions Windows workflow tests all six game flows and local-save persistence, builds the installer, silently installs it, checks its desktop shortcut, and launches the installed app.
+
 ## Website
-Open `website/index.html` or deploy the `website` folder as a static site. It is informational only; it contains no gameplay. The download button is intentionally disabled until a real installer is published. The game app and public site are separate products.
-## Implemented
-Six mini-games run inside Electron. Best scores and history use localStorage. Gamer Percentage is only available after each of the six has a score and is the rounded mean of the six best scores. Replay creates a new round; history is kept separately.
-## Setup still required for public release
-No installer binary, deployment, signing certificate, GitHub release, or authentication backend is included. Configure Supabase or Firebase consistently for website and app before advertising account creation, password recovery, verification, or sync. The current app profile prompt is a local player label, not authentication, and no passwords are collected.
-Contexto uses a small curated offline semantic neighborhood list, not a general semantic similarity model. Head Count is currently a timed visual face-count challenge. The linked Squareheads video could not be fetched to confirm exact rules, so this game is not claimed to match the reference.
+
+Open `website/index.html` or visit [Afterglow Arcade Club](https://nxtpwr.github.io/Afterglow-Arcade/). It introduces the app; gameplay happens in the desktop application.
+
+Contexto uses a small curated offline semantic neighborhood list, not a general language model. Head Count is a timed visual face-count challenge.

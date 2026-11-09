@@ -25,7 +25,6 @@ jobs:
     timeout-minutes: 30
     env:
       AFTERGLOW_QA: "1"
-      AFTERGLOW_USER_DATA_DIR: ${{ runner.temp }}\\Afterglow-Arcade-QA
       GH_TOKEN: ${{ github.token }}
 
     steps:
@@ -45,7 +44,11 @@ jobs:
         run: npm test
 
       - name: Prepare isolated QA profile
-        run: New-Item -ItemType Directory -Force -Path $env:AFTERGLOW_USER_DATA_DIR | Out-Null
+        shell: pwsh
+        run: |
+          $profilePath = Join-Path $env:RUNNER_TEMP "Afterglow-Arcade-QA"
+          New-Item -ItemType Directory -Force -Path $profilePath | Out-Null
+          "AFTERGLOW_USER_DATA_DIR=$profilePath" >> $env:GITHUB_ENV
 
       - name: Play all six games in Electron
         run: npm run qa

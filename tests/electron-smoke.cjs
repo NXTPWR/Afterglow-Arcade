@@ -64,6 +64,7 @@ module.exports = async function runElectronSmoke({ app, window }) {
     await waitFor('document.querySelector("#answer") && !document.querySelector("#answer").disabled', 'Perceptle count reveal', 5000);
     await run('document.querySelector("#answer").value="1";document.querySelector("#submit").click();true');
     await waitFor('document.querySelector("[data-n]")', 'Perceptle tracking choices', 10000);
+    await sleep(4100); // Let all eleven tracked pulses finish before choosing.
     await run('document.querySelector("[data-n]").click();true');
     await waitFor('document.querySelector("#submit")', 'Perceptle angle');
     await run('document.querySelector("#submit").click();true');

@@ -1,159 +1,112 @@
-YªçŠx³¬uç%j·Â+ar‰ì¶ë•ë_¢ºŞjË"‚v›•ëÚ®&›•ë
-[˜İ[Ûˆ
-›Ûİ
-HÂˆ	İ\ÙHİšXİ	ÎÂˆÛÛœİÛ[\H˜[YHOˆX]›X^
-X]›Z[ŠL[X™\‹š\Ñš[š]J˜[YJHÈ˜[YHˆ
-JNÂˆÛÛœİ›İ[™H˜[YHOˆX]œ›İ[™
-Û[\
-˜[YJJNÂ‚ˆ[˜İ[ÛˆØÛÜ™PÚ\˜ÛJÚ[ÊHÂˆYˆ
-P\œ˜^Kš\Ğ\œ˜^JÚ[ÊHÚ[Ë›[™İMJH™]\›ˆÈ[˜[YˆYKØÛÜ™NˆNÂˆÛÛœİŞHÚ[Ëœ™YXÙJ
-İ[KÚ[
-HOˆİ[H
-ÈÚ[ÌK
-HÈÚ[Ë›[™İÂˆÛÛœİŞHHÚ[Ëœ™YXÙJ
-İ[KÚ[
-HOˆİ[H
-ÈÚ[ÌWK
-HÈÚ[Ë›[™İÂˆÛÛœİ˜YZHHÚ[Ë›X\
-Ú[OˆX]š\İ
-Ú[ÌHHŞÚ[ÌWHHŞJJNÂˆÛÛœİYX[”˜Y]\ÈH˜YZKœ™YXÙJ
-İ[K˜Y]\ÊHOˆİ[H
-È˜Y]\Ë
-HÈ˜YZK›[™İÂˆYˆ
-S[X™\‹š\Ñš[š]JYX[”˜Y]\ÊHYX[”˜Y]\ÈJH™]\›ˆÈ[˜[YˆYKØÛÜ™NˆNÂˆÛÛœİ]šX][ÛˆHX]œÜ\
-˜YZKœ™YXÙJ
-İ[K˜Y]\ÊHOˆİ[H
-È
-˜Y]\ÈHYX[”˜Y]\ÊH
-Šˆ‹
-HÈ˜YZK›[™İ
-HÈYX[”˜Y]\ÎÂˆÛÛœİš\œİHÚ[ÖÌK\İHÚ[ÖÜÚ[Ë›[™İHWNÂˆÛÛœİÛÜİ\™HHX]š\İ
-š\œİÌHH\İÌKš\œİÌWHH\İÌWJHÈYX[”˜Y]\ÎÂˆÛÛœİ[™İHÚ[ËœÛXÙJJKœ™YXÙJ
-İ[KÚ[JHOˆİ[H
-ÈX]š\İ
-Ú[ÌHHÚ[ÖÚWVÌKÚ[ÌWHHÚ[ÖÚWVÌWJK
-NÂˆÛÛœİÛİ™\˜YÙHH[™İÈ
-ˆ
-ˆX]”H
-ˆYX[”˜Y]\ÊNÂˆ™]\›ˆÂˆ[˜[Yˆ˜[ÙKˆ]šX][Ûˆ›İ[™
+(function (root) {
+  'use strict';
+  const clamp = value => Math.max(0, Math.min(100, Number.isFinite(value) ? value : 0));
+  const round = value => Math.round(clamp(value));
 
-HH]šX][ÛŠH
-ˆL
-KˆÛÜİ\™Nˆ›İ[™
+  function scoreCircle(points) {
+    if (!Array.isArray(points) || points.length < 15) return { invalid: true, score: 0 };
+    const cx = points.reduce((sum, point) => sum + point[0], 0) / points.length;
+    const cy = points.reduce((sum, point) => sum + point[1], 0) / points.length;
+    const radii = points.map(point => Math.hypot(point[0] - cx, point[1] - cy));
+    const meanRadius = radii.reduce((sum, radius) => sum + radius, 0) / radii.length;
+    if (!Number.isFinite(meanRadius) || meanRadius < 1) return { invalid: true, score: 0 };
+    const deviation = Math.sqrt(radii.reduce((sum, radius) => sum + (radius - meanRadius) ** 2, 0) / radii.length) / meanRadius;
+    const first = points[0], last = points[points.length - 1];
+    const closure = Math.hypot(first[0] - last[0], first[1] - last[1]) / meanRadius;
+    const length = points.slice(1).reduce((sum, point, i) => sum + Math.hypot(point[0] - points[i][0], point[1] - points[i][1]), 0);
+    const coverage = length / (2 * Math.PI * meanRadius);
+    return {
+      invalid: false,
+      deviation: round((1 - deviation) * 100),
+      closure: round((1 - closure) * 100),
+      coverage: round(Math.min(1, coverage) * 100),
+      score: round(100 - deviation * 140 - Math.max(0, closure - 0.25) * 55 - Math.max(0, 0.9 - coverage) * 40)
+    };
+  }
 
-HHÛÜİ\™JH
-ˆL
-KˆÛİ™\˜YÙNˆ›İ[™
-X]›Z[ŠKÛİ™\˜YÙJH
-ˆL
-KˆØÛÜ™Nˆ›İ[™
-LH]šX][Ûˆ
-ˆMHX]›X^
-ÛÜİ\™HHŒJH
-ˆMHHX]›X^
-HHÛİ™\˜YÙJH
-ˆ
-BˆNÂˆB‚ˆ[˜İ[ÛˆØÛÜ™Q\İ[X]JXİX[İY\ÜÊHÂˆXİX[H[X™\ŠXİX[
-NÈİY\ÜÈH[X™\ŠİY\ÜÊNÂˆYˆ
-S[X™\‹š\Ñš[š]JXİX[
-HXİX[HS[X™\‹š\Ñš[š]JİY\ÜÊJH™]\›ˆÂˆ™]\›ˆ›İ[™
-LHX]˜XœÊİY\ÜÈHXİX[
-HÈXİX[
-ˆL
-NÂˆB‚ˆ[˜İ[ÛˆØÛÜ™P[™ÛJXİX[İY\ÜÊHÂˆXİX[H[X™\ŠXİX[
-NÈİY\ÜÈH[X™\ŠİY\ÜÊNÂˆYˆ
-S[X™\‹š\Ñš[š]JXİX[
-HS[X™\‹š\Ñš[š]JİY\ÜÊJH™]\›ˆÂˆ™]\›ˆ›İ[™
-LHX]˜XœÊİY\ÜÈHXİX[
-HÈN
-ˆL
-NÂˆB‚ˆ[˜İ[ÛˆØÛÜ™Qœ˜Xİ[ÛŠXİX[İY\ÜÊHÂˆXİX[H[X™\ŠXİX[
-NÈİY\ÜÈH[X™\ŠİY\ÜÊNÂˆYˆ
-S[X™\‹š\Ñš[š]JXİX[
-HS[X™\‹š\Ñš[š]JİY\ÜÊJH™]\›ˆÂˆ™]\›ˆ›İ[™
-LHX]˜XœÊİY\ÜÈHXİX[
-JNÂˆB‚ˆ[˜İ[ÛˆØÛÜ™RÜš[[ÛŠÛÜœ™Xİİ[
-HÂˆÛÜœ™XİH[X™\ŠÛÜœ™Xİ
-NÈİ[H[X™\Šİ[
-NÂˆYˆ
-S[X™\‹š\Ñš[š]JÛÜœ™Xİ
-HS[X™\‹š\Ñš[š]Jİ[
-Hİ[H
-H™]\›ˆÂˆ™]\›ˆ›İ[™
-ÛÜœ™XİÈİ[
-ˆL
-NÂˆB‚ˆ[˜İ[ÛˆØÛÜ™U[\Ê^XİY[\˜[Ë\ÊHÂˆYˆ
-P\œ˜^Kš\Ğ\œ˜^J^XİY[\˜[ÊHP\œ˜^Kš\Ğ\œ˜^J\ÊH\Ë›[™İŠH™]\›ˆÂˆÛÛœİÛİ[HX]›Z[Š^XİY[\˜[Ë›[™İ\Ë›[™İHJNÂˆYˆ
-XÛİ[
-H™]\›ˆÂˆ]\œ›ÜˆHÂˆ›Üˆ
-]HHÈHÛİ[ÈJÊÊHÂˆÛÛœİ^XİYH[X™\Š^XİY[\˜[ÖÚWJNÂˆÛÛœİXİX[H[X™\Š\ÖÚH
-ÈWJHH[X™\Š\ÖÚWJNÂˆYˆ
-S[X™\‹š\Ñš[š]J^XİY
-HS[X™\‹š\Ñš[š]JXİX[
-JH™]\›ˆÂˆ\œ›Üˆ
-ÏHX]˜XœÊXİX[H^XİY
-NÂˆBˆ™]\›ˆ›İ[™
-LH
-\œ›ÜˆÈÛİ[
-HÈ
-NÂˆB‚ˆ[˜İ[ÛˆØÛÜ™U˜XÙSX]Ú
-™Y™\™[˜ÙK˜]Ú[™ËÛ\˜[˜ÙHHŠHÂˆYˆ
-\™Y™\™[˜ÙHY˜]Ú[™È™Y™\™[˜ÙK›[™İOOH˜]Ú[™Ë›[™İ™Y™\™[˜ÙK›[™İOOH
-H™]\›ˆÂˆÛÛœİÚYHX]›X^
-KX]™›ÛÜŠX]œÜ\
-™Y™\™[˜ÙK›[™İ
-JJNÂˆÛÛœİZYÚHX]˜ÙZ[
-™Y™\™[˜ÙK›[™İÈÚY
-NÂˆÛ\˜[˜ÙHHX]›X^
-X]™›ÛÜŠÛ\˜[˜ÙJJNÂˆ]™Y™\™[˜ÙPÛİ[H˜]Ú[™ĞÛİ[HX]ÚY™Y™\™[˜ÙHHX]ÚY˜]Ú[™ÈHÂˆÛÛœİÚ][ˆH
-X\ÚËJHOˆÂˆ›Üˆ
-]HH]Û\˜[˜ÙNÈHHÛ\˜[˜ÙNÈJÊÊHÂˆ›Üˆ
-]H]Û\˜[˜ÙNÈHÛ\˜[˜ÙNÈ
-ÊÊHÂˆYˆ
-
-ˆ
-ÈH
-ˆHˆÛ\˜[˜ÙH
-ˆÛ\˜[˜ÙJHÛÛ[YNÂˆÛÛœİH
-ÈHHH
-ÈNÂˆYˆ
-H	‰ˆÚY	‰ˆHH	‰ˆHZYÚ	‰ˆX\ÚÖÛH
-ˆÚY
-ÈJH™]\›ˆYNÂˆBˆBˆ™]\›ˆ˜[ÙNÂˆNÂˆ›Üˆ
-]HHÈHZYÚÈJÊÊH›Üˆ
-]HÈÚYÈ
-ÊÊHÂˆÛÛœİ[™^HH
-ˆÚY
-ÈÂˆYˆ
-[™^H™Y™\™[˜ÙK›[™İ
-HÛÛ[YNÂˆYˆ
-™Y™\™[˜ÙVÚ[™^JHÈ™Y™\™[˜ÙPÛİ[
-ÊÎÈYˆ
-Ú][Š˜]Ú[™ËJJHX]ÚY™Y™\™[˜ÙJÊÎÈBˆYˆ
-˜]Ú[™ÖÚ[™^JHÈ˜]Ú[™ĞÛİ[
-ÊÎÈYˆ
-Ú][Š™Y™\™[˜ÙKJJHX]ÚY˜]Ú[™ÊÊÎÈBˆBˆYˆ
-\™Y™\™[˜ÙPÛİ[Y˜]Ú[™ĞÛİ[
-H™]\›ˆÂˆÛÛœİ™XØ[HX]ÚY™Y™\™[˜ÙHÈ™Y™\™[˜ÙPÛİ[ÂˆÛÛœİ™XÚ\Ú[ÛˆHX]ÚY˜]Ú[™ÈÈ˜]Ú[™ĞÛİ[Âˆ™]\›ˆ›İ[™
-Œ
-ˆ™XØ[
-ˆ™XÚ\Ú[ÛˆÈ
-™XØ[
-È™XÚ\Ú[ÛˆJJNÂˆB‚ˆ[˜İ[ÛˆØ[Y\”\˜Ù[YÙJ™\İØÛÜ™\ËØ[YRYÊHÂˆYˆ
-X™\İØÛÜ™\ÈP\œ˜^Kš\Ğ\œ˜^JØ[YRYÊHØ[YRYË›[™İOOHŠH™]\›ˆ[ÂˆÛÛœİØÛÜ™\ÈHØ[YRYË›X\
-YOˆ[X™\Š™\İØÛÜ™\ÖÚYJJNÂˆYˆ
-ØÛÜ™\ËœÛÛYJØÛÜ™HOˆS[X™\‹š\Ñš[š]JØÛÜ™JHØÛÜ™HØÛÜ™HˆL
-JH™]\›ˆ[Âˆ™]\›ˆX]œ›İ[™
-ØÛÜ™\Ëœ™YXÙJ
-İ[KØÛÜ™JHOˆİ[H
-ÈØÛÜ™K
-HÈŠNÂˆB‚ˆ[˜İ[ÛˆØÛÜ™PÛÛ^ÊİY\ÜĞÛİ[
-HÂˆİY\ÜĞÛİ[H[X™\ŠİY\ÜĞÛİ[
-NÂˆYˆ
-S[X™\‹š\Ñš[š]JİY\ÜĞÛİ[
-HİY\ÜĞÛİ[JH™]\›ˆÂˆ™]\›ˆ›İ[™
-LH
-İY\ÜĞÛİ[HJH
-ˆL
-NÂˆB‚ˆÛÛœİ\HHØš™Xİ™œ™Y^™JÂˆØÛÜ™PÚ\˜ÛKØÛÜ™Q\İ[X]KØÛÜ™P[™ÛKØÛÜ™Qœ˜Xİ[Û‹ØÛÜ™RÜš[[Û‹ˆØÛÜ™U[\ËØÛÜ™U˜XÙSX]ÚØ[Y\”\˜Ù[YÙKØÛÜ™PÛÛ^ÂˆJNÂˆYˆ
-\[Ùˆ[Ù[HOOH	ÛØš™Xİ	È	‰ˆ[Ù[K™^ÜÊH[Ù[K™^ÜÈH\NÂˆ›ÛİY\™ÛİĞÛÜ™HH\NÂŸJJ\[ÙˆÛØ˜[\ÈOOH	ÛØš™Xİ	ÈÈÛØ˜[\Èˆ\ÊNÂ
+  function scoreEstimate(actual, guess) {
+    actual = Number(actual); guess = Number(guess);
+    if (!Number.isFinite(actual) || actual <= 0 || !Number.isFinite(guess)) return 0;
+    return round(100 - Math.abs(guess - actual) / actual * 100);
+  }
+
+  function scoreAngle(actual, guess) {
+    actual = Number(actual); guess = Number(guess);
+    if (!Number.isFinite(actual) || !Number.isFinite(guess)) return 0;
+    return round(100 - Math.abs(guess - actual) / 180 * 100);
+  }
+
+  function scoreFraction(actual, guess) {
+    actual = Number(actual); guess = Number(guess);
+    if (!Number.isFinite(actual) || !Number.isFinite(guess)) return 0;
+    return round(100 - Math.abs(guess - actual));
+  }
+
+  function scoreKrillion(correct, total) {
+    correct = Number(correct); total = Number(total);
+    if (!Number.isFinite(correct) || !Number.isFinite(total) || total <= 0) return 0;
+    return round(correct / total * 100);
+  }
+
+  function scoreTempo(expectedIntervals, taps) {
+    if (!Array.isArray(expectedIntervals) || !Array.isArray(taps) || taps.length < 2) return 0;
+    const count = Math.min(expectedIntervals.length, taps.length - 1);
+    if (!count) return 0;
+    let error = 0;
+    for (let i = 0; i < count; i++) {
+      const expected = Number(expectedIntervals[i]);
+      const actual = Number(taps[i + 1]) - Number(taps[i]);
+      if (!Number.isFinite(expected) || !Number.isFinite(actual)) return 0;
+      error += Math.abs(actual - expected);
+    }
+    return round(100 - (error / count) / 8);
+  }
+
+  function scoreTraceMatch(reference, drawing, tolerance = 2) {
+    if (!reference || !drawing || reference.length !== drawing.length || reference.length === 0) return 0;
+    const width = Math.max(1, Math.floor(Math.sqrt(reference.length)));
+    const height = Math.ceil(reference.length / width);
+    tolerance = Math.max(0, Math.floor(tolerance));
+    let referenceCount = 0, drawingCount = 0, matchedReference = 0, matchedDrawing = 0;
+    const within = (mask, x, y) => {
+      for (let dy = -tolerance; dy <= tolerance; dy++) {
+        for (let dx = -tolerance; dx <= tolerance; dx++) {
+          if (dx * dx + dy * dy > tolerance * tolerance) continue;
+          const nx = x + dx, ny = y + dy;
+          if (nx >= 0 && nx < width && ny >= 0 && ny < height && mask[ny * width + nx]) return true;
+        }
+      }
+      return false;
+    };
+    for (let y = 0; y < height; y++) for (let x = 0; x < width; x++) {
+      const index = y * width + x;
+      if (index >= reference.length) continue;
+      if (reference[index]) { referenceCount++; if (within(drawing, x, y)) matchedReference++; }
+      if (drawing[index]) { drawingCount++; if (within(reference, x, y)) matchedDrawing++; }
+    }
+    if (!referenceCount || !drawingCount) return 0;
+    const recall = matchedReference / referenceCount;
+    const precision = matchedDrawing / drawingCount;
+    return round(200 * recall * precision / (recall + precision || 1));
+  }
+
+  function gamerPercentage(bestScores, gameIds) {
+    if (!bestScores || !Array.isArray(gameIds) || gameIds.length !== 6) return null;
+    const scores = gameIds.map(id => Number(bestScores[id]));
+    if (scores.some(score => !Number.isFinite(score) || score < 0 || score > 100)) return null;
+    return Math.round(scores.reduce((sum, score) => sum + score, 0) / 6);
+  }
+
+  function scoreContexto(guessCount) {
+    guessCount = Number(guessCount);
+    if (!Number.isFinite(guessCount) || guessCount < 1) return 0;
+    return round(100 - (guessCount - 1) * 10);
+  }
+
+  const api = Object.freeze({
+    scoreCircle, scoreEstimate, scoreAngle, scoreFraction, scoreKrillion,
+    scoreTempo, scoreTraceMatch, gamerPercentage, scoreContexto
+  });
+  if (typeof module === 'object' && module.exports) module.exports = api;
+  root.AfterglowCore = api;
+})(typeof globalThis === 'object' ? globalThis : this);

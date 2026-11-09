@@ -1,96 +1,109 @@
-YªçŠx³¬uç%j·Â+ar‰ì¶ë•ë_¢ºÞjË"‚v›•ëÚ®&›•ëÛÛœÝ\ÜÙ\H™\]Z\™J	Û›ÙN˜\ÜÙ\ÜÝšXÝ	ÊNÂ‚›[Ù[K™^ÜÈH\Þ[˜È[˜Ý[Ûˆ[‘[XÝ›Û”Û[ÚÙJÈ\Ú[™ÝÈJHÂˆÛÛœÝ[ˆHÛÙHOˆÚ[™ÝËÙXÛÛ[Ë™^XÝ]R˜]˜TØÜš\
-ÛÙKYJNÂˆÛÛœÝÛY\H\ÈOˆ™]È›ÛZ\ÙJ™\ÛÛ™HOˆÙ][Y[Ý]
-™\ÛÛ™K\ÊJNÂˆ\Þ[˜È[˜Ý[ÛˆØZ]›ÜŠ^™\ÜÚ[Û‹X™[[Y[Ý]HML
-HÂˆÛÛœÝ[™H]K››ÝÊ
-H
-È[Y[Ý]ÂˆÚ[H
-]K››ÝÊ
-H[™
-HÂˆYˆ
-]ØZ][Š	Ð›ÛÛX[Š	È
-È^™\ÜÚ[Ûˆ
-È	ÊIÊJH™]\›ŽÂˆ]ØZ]ÛY\
-L
-NÂˆBˆ›ÝÈ™]È\œ›ÜŠ	Õ[YYÝ]ØZ][™È›Üˆ	È
-ÈX™[
-NÂˆBˆ\Þ[˜È[˜Ý[ÛˆÛXÚÊÙ[XÝÜŠHÂˆ]ØZ]ØZ]›ÜŠ	ÙØÝ[Y[œ]Y\žTÙ[XÝÜŠ	È
-È”ÓÓ‹œÝš[™ÚYžJÙ[XÝÜŠH
-È	ÊIËÙ[XÝÜŠNÂˆ]ØZ][Š	ÙØÝ[Y[œ]Y\žTÙ[XÝÜŠ	È
-È”ÓÓ‹œÝš[™ÚYžJÙ[XÝÜŠH
-È	ÊK˜ÛXÚÊ
-NÈYIÊNÂˆBˆ\Þ[˜È[˜Ý[Ûˆ˜XÚÕÑ›ÛÜŠ
-HÂˆ]ØZ]ÛXÚÊ	ÈØ˜XÚÉÊNÂˆ]ØZ]ØZ]›ÜŠ	ÙØÝ[Y[œ]Y\žTÙ[XÝÜŠ	ÖÙ]KYÏH˜Ú\˜ÛH—W	ÊIË	ÙØ[YH›ÛÜ‰ÊNÂˆBˆ\Þ[˜È[˜Ý[ÛˆÝ\Ø[YJY
-HÂˆ]ØZ]ÛXÚÊ	ÖÙ]KYÏH‰È
-ÈY
-È	È—IÊNÂˆ]ØZ]ØZ]›ÜŠ	ÙØÝ[Y[œ]Y\žTÙ[XÝÜŠ‹›[Ù[ŠIËY
-È	È›Ý[™	ÊNÂˆB‚ˆžHÂˆ]ØZ]ØZ]›ÜŠ	ÝÚ[™ÝËY\™ÛÝÐÛÜ™IË	ÜØÛÜš[™È[™Ú[™IÊNÂˆÛÛœÝØ]™YH]ØZ][Š	Ò”ÓÓ‹œ\œÙJØØ[ÝÜ˜YÙK™Ù]][JœØÛÜ™\ÈŠ_žßHŠIÊNÂˆÛÛœÝYÈHÉØÚ\˜ÛIË	ÚÜš[[Û‰Ë	Ü\˜Ù\IË	ÚXYÛÝ[	Ë	ÛÙÛÜÉË	ØÛÛ^É×NÂˆYˆ
-YË™]™\žJYOˆ[X™\‹š\Ñš[š]JØ]™YÚYJJJHÂˆÛÛœÝ\˜Ù[YÙHH]ØZ][Š	ÐY\™ÛÝÐÛÜ™K™Ø[Y\”\˜Ù[YÙJ”ÓÓ‹œ\œÙJØØ[ÝÜ˜YÙK™Ù]][JœØÛÜ™\ÈŠ_žßHŠK	È
-È”ÓÓ‹œÝš[™ÚYžJYÊH
-È	ÊIÊNÂˆ\ÜÙ\›ÚÊ[X™\‹š\Ñš[š]J\˜Ù[YÙJK	ÑØ[Y\ˆ\˜Ù[YÙHÚÝ[\œÚ\ÝY\ˆ™[][˜Ú	ÊNÂˆÛÛœÝ\ÝÜžS[™ÝH]ØZ][Š	Ê”ÓÓ‹œ\œÙJØØ[ÝÜ˜YÙK™Ù]][Jš\ÝÜžHŠ_–×HŠJK›[™Ý	ÊNÂˆ\ÜÙ\›ÚÊ\ÝÜžS[™ÝH‹	ÙØ[YH\ÝÜžHÚÝ[\œÚ\ÝY\ˆ™[][˜Ú	ÊNÂˆÛÛœÛÛK›ÙÊ	ÖÔPWHTÔÎˆÚ^Ø]™YØÛÜ™\È[™Ø[Y\ˆ\˜Ù[YÙHÝ\š]™H™[][˜Ú
-	È
-È\˜Ù[YÙH
-È	ÉJK‰ÊNÂˆ\œ]Z]
+const assert = require('node:assert/strict');
 
-NÂˆ™]\›ŽÂˆB‚ˆ\ÜÙ\™\]X[
-]ØZ][Š	ÙØÝ[Y[œ]Y\žTÙ[XÝÜ[
-˜\XÛK˜Ø\™Ù]KY×HŠK›[™Ý	ÊK‹	Ù\Ú›Ø\™ÚÝ[ÚÝÈ[Ú^Ø[Y\ÉÊNÂ‚ˆËÈ\™™XÝÚ\˜ÛNˆ˜]ÈHÛÛ\]K]™[ˆÚ\˜ÛH[™\ÝH™\Ý[È™\^HÛÛ›Û‚ˆ]ØZ]Ý\Ø[YJ	ØÚ\˜ÛIÊNÂˆ]ØZ][Š
+module.exports = async function runElectronSmoke({ app, window }) {
+  const run = code => window.webContents.executeJavaScript(code, true);
+  const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
+  async function waitFor(expression, label, timeout = 15000) {
+    const end = Date.now() + timeout;
+    while (Date.now() < end) {
+      if (await run('Boolean(' + expression + ')')) return;
+      await sleep(100);
+    }
+    throw new Error('Timed out waiting for ' + label);
+  }
+  async function click(selector) {
+    await waitFor('document.querySelector(' + JSON.stringify(selector) + ')', selector);
+    await run('document.querySelector(' + JSON.stringify(selector) + ').click(); true');
+  }
+  async function backToFloor() {
+    await click('#back');
+    await waitFor('document.querySelector(\'[data-g="circle"]\')', 'game floor');
+  }
+  async function startGame(id) {
+    await click('[data-g="' + id + '"]');
+    await waitFor('document.querySelector(".modal")', id + ' round');
+  }
 
+  try {
+    await waitFor('window.AfterglowCore', 'scoring engine');
+    const saved = await run('JSON.parse(localStorage.getItem("scores")||"{}")');
+    const ids = ['circle', 'krillion', 'perceptle', 'headcount', 'logos', 'contexto'];
+    if (ids.every(id => Number.isFinite(saved[id]))) {
+      const percentage = await run('AfterglowCore.gamerPercentage(JSON.parse(localStorage.getItem("scores")||"{}"),' + JSON.stringify(ids) + ')');
+      assert.ok(Number.isFinite(percentage), 'Gamer Percentage should persist after relaunch');
+      const historyLength = await run('(JSON.parse(localStorage.getItem("history")||"[]")).length');
+      assert.ok(historyLength >= 6, 'game history should persist after relaunch');
+      console.log('[QA] PASS: six saved scores and Gamer Percentage survive relaunch (' + percentage + '%).');
+      app.quit();
+      return;
+    }
 
-OOžØÛÛœÝÏYØÝ[Y[œ]Y\žTÙ[XÝÜŠ	ÈØÉÊNØËœÙ]Ú[\Ø\\™OJ
-OOžßNØÛÛœÝÞXËÚYÌ‹ÞOXËšZYÚÌ‹SX]›Z[ŠËšZYÚ
-‹ŒÌKËÚY
-‹ŒŠNÙ›ÜŠ]OLÚOLÍŒÚJÊÊ^ØÛÛœÝOZJ“X]”KÌNO^ÛÙ™œÙ]˜Þ
-ÓX]˜ÛÜÊJJœ‹Ù™œÙ]N˜ÞJÓX]œÚ[ŠJJœ‹Ú[\’YŒ_NÚYŠOOOL
-XË›ÛœÚ[\™ÝÛŠJNÙ[ÙHË›ÛœÚ[\›[Ý™JJ_XË›ÛœÚ[\\
-ßJNÙØÝ[Y[œ]Y\žTÙ[XÝÜŠ	ÈÜÝX›Z]	ÊK˜ÛXÚÊ
-NÜ™]\›ˆY_JJ
-X
-NÂˆ]ØZ]ØZ]›ÜŠ	ÙØÝ[Y[œ]Y\žTÙ[XÝÜŠˆÜ™\^HŠIË	ØÚ\˜ÛH™\Ý[	ÊNÂˆ\ÜÙ\™\]X[
-]ØZ][Š	Ò”ÓÓ‹œ\œÙJØØ[ÝÜ˜YÙK™Ù]][JœØÛÜ™\ÈŠJK˜Ú\˜ÛIÊKL	Ü\™™XÝÚ\˜ÛHÚÝ[ØÛÜ™HL	ÊNÂˆ]ØZ]ÛXÚÊ	ÈÜ™\^IÊNÂˆ]ØZ]ØZ]›ÜŠ	ÙØÝ[Y[œ]Y\žTÙ[XÝÜŠˆØÈŠIË	ØÚ\˜ÛH™\^IÊNÂˆ]ØZ]ÛXÚÊ	Ë˜ÛÜÙIÊNÂˆ]ØZ]ØZ]›ÜŠ	ÙØÝ[Y[œ]Y\žTÙ[XÝÜŠ	ÖÙ]KYÏH˜Ú\˜ÛH—W	ÊIË	Ù›ÛÜˆY\ˆ™\^HÛÜÙIÊNÂ‚ˆËÈÜš[[ÛŽˆš[š\ÚÙ]™[ˆ™X[]Y\Ý[ÛˆØÜ™Y[œÎÈXXÚ™\ÜÛœÙH\È™XÛÜ™Y‚ˆ]ØZ]Ý\Ø[YJ	ÚÜš[[Û‰ÊNÂˆ›Üˆ
-]HHÈHÎÈJÊÊHÂˆ]ØZ]ØZ]›ÜŠ	ÙØÝ[Y[œ]Y\žTÙ[XÝÜŠ‹˜ÚÚXÙ\È]ÛˆŠIË	ÒÜš[[Ûˆ]Y\Ý[Ûˆ	È
-È
-H
-ÈJJNÂˆ]ØZ][Š	ÙØÝ[Y[œ]Y\žTÙ[XÝÜŠ‹˜ÚÚXÙ\È]ÛˆŠK˜ÛXÚÊ
-NÈYIÊNÂˆBˆ]ØZ]ØZ]›ÜŠ	ÙØÝ[Y[œ]Y\žTÙ[XÝÜŠˆÜ™\^HŠIË	ÒÜš[[Ûˆ™\Ý[ÉÊNÂˆ]ØZ]˜XÚÕÑ›ÛÜŠ
-NÂ‚ˆËÈ\˜Ù\NˆÛÛ\]HÛÝ[˜XÚÚ[™Ë[™ÛK[\Ë[™Ü]›Ý[™Ë‚ˆ]ØZ]Ý\Ø[YJ	Ü\˜Ù\IÊNÂˆ]ØZ]ØZ]›ÜŠ	ÙØÝ[Y[œ]Y\žTÙ[XÝÜŠˆØ[œÝÙ\ˆŠH	‰ˆYØÝ[Y[œ]Y\žTÙ[XÝÜŠˆØ[œÝÙ\ˆŠK™\ØX›Y	Ë	Ô\˜Ù\HÛÝ[™]™X[	ËL
-NÂˆ]ØZ][Š	ÙØÝ[Y[œ]Y\žTÙ[XÝÜŠˆØ[œÝÙ\ˆŠK˜[YOHŒHŽÙØÝ[Y[œ]Y\žTÙ[XÝÜŠˆÜÝX›Z]ŠK˜ÛXÚÊ
-NÝYIÊNÂˆ]ØZ]ØZ]›ÜŠ	ÙØÝ[Y[œ]Y\žTÙ[XÝÜŠ–Ù]K[—HŠIË	Ô\˜Ù\H˜XÚÚ[™ÈÚÚXÙ\ÉËL
-NÂˆ]ØZ][Š	ÙØÝ[Y[œ]Y\žTÙ[XÝÜŠ–Ù]K[—HŠK˜ÛXÚÊ
-NÝYIÊNÂˆ]ØZ]ØZ]›ÜŠ	ÙØÝ[Y[œ]Y\žTÙ[XÝÜŠˆÜÝX›Z]ŠIË	Ô\˜Ù\H[™ÛIÊNÂˆ]ØZ][Š	ÙØÝ[Y[œ]Y\žTÙ[XÝÜŠˆÜÝX›Z]ŠK˜ÛXÚÊ
-NÝYIÊNÂˆ]ØZ]ØZ]›ÜŠ	ÙØÝ[Y[œ]Y\žTÙ[XÝÜŠˆØ™X]ŠIË	Ô\˜Ù\H[\ÉÊNÂˆ]ØZ]ØZ]›ÜŠ	ÙØÝ[Y[œ]Y\žTÙ[XÝÜŠˆØ™X]ŠH	‰ˆØÝ[Y[œ]Y\žTÙ[XÝÜŠˆØ™X]ŠK^ÛÛ[š[˜ÛY\Ê–SÕTˆT“ˆŠIË	Ý[\È^X˜XÚÉËLŒ
-NÂˆ]ØZ][Š	Ù›ÜŠ]OLÚOÚJÊÊYØÝ[Y[œ]Y\žTÙ[XÝÜŠˆÝ\ŠK˜ÛXÚÊ
-NÝYIÊNÂˆ]ØZ]ØZ]›ÜŠ	ÙØÝ[Y[œ]Y\žTÙ[XÝÜŠˆÜÝX›Z]ŠIË	Ô\˜Ù\HÜ]	ÊNÂˆ]ØZ][Š	ÙØÝ[Y[œ]Y\žTÙ[XÝÜŠˆÜÝX›Z]ŠK˜ÛXÚÊ
-NÝYIÊNÂˆ]ØZ]ØZ]›ÜŠ	ÙØÝ[Y[œ]Y\žTÙ[XÝÜŠˆÜ™\^HŠIË	Ô\˜Ù\H™\Ý[ÉÊNÂˆ]ØZ]˜XÚÕÑ›ÛÜŠ
-NÂ‚ˆËÈXYÛÝ[Y\È˜XÙ\È™Y›Ü™H[˜X›[™ÈH™\ÜÛœÙK‚ˆ]ØZ]Ý\Ø[YJ	ÚXYÛÝ[	ÊNÂˆ]ØZ]ØZ]›ÜŠ	ÙØÝ[Y[œ]Y\žTÙ[XÝÜŠˆØ[œÝÙ\ˆŠH	‰ˆYØÝ[Y[œ]Y\žTÙ[XÝÜŠˆØ[œÝÙ\ˆŠK™\ØX›Y	Ë	ÒXYÛÝ[[œÝÙ\ˆÚ[™ÝÉËŒ
-NÂˆ]ØZ][Š	ÙØÝ[Y[œ]Y\žTÙ[XÝÜŠˆØ[œÝÙ\ˆŠK˜[YOHŒŽÙØÝ[Y[œ]Y\žTÙ[XÝÜŠˆÜÝX›Z]ŠK˜ÛXÚÊ
-NÝYIÊNÂˆ]ØZ]ØZ]›ÜŠ	ÙØÝ[Y[œ]Y\žTÙ[XÝÜŠˆÜ™\^HŠIË	ÒXYÛÝ[™\Ý[ÉÊNÂˆ]ØZ]˜XÚÕÑ›ÛÜŠ
-NÂ‚ˆËÈÙÛÈ™XØ[™\]Z\™\ÈHÝYHÚ[™ÝÈÈ[™™Y›Ü™H˜]Ú[™È\È[˜X›Y‚ˆ]ØZ]Ý\Ø[YJ	ÛÙÛÜÉÊNÂˆ]ØZ]ØZ]›ÜŠ	ÙØÝ[Y[œ]Y\žTÙ[XÝÜŠˆÜ™]™X[ŠH	‰ˆYØÝ[Y[œ]Y\žTÙ[XÝÜŠˆÜ™]™X[ŠK™\ØX›Y	Ë	ÛÙÛÈ™XØ[Ú[™ÝÉËŒ
-NÂˆ]ØZ][Š
+    assert.equal(await run('document.querySelectorAll("article.card[data-g]").length'), 6, 'dashboard should show all six games');
 
+    // Perfect Circle: draw a complete, even circle and test the results replay control.
+    await startGame('circle');
+    await run(`(()=>{const c=document.querySelector('#c');c.setPointerCapture=()=>{};const cx=c.width/2,cy=c.height/2,r=Math.min(c.height*.31,c.width*.2);for(let i=0;i<=360;i++){const a=i*Math.PI/180,e={offsetX:cx+Math.cos(a)*r,offsetY:cy+Math.sin(a)*r,pointerId:1};if(i===0)c.onpointerdown(e);else c.onpointermove(e)}c.onpointerup({});document.querySelector('#submit').click();return true})()`);
+    await waitFor('document.querySelector("#replay")', 'circle result');
+    assert.equal(await run('JSON.parse(localStorage.getItem("scores")).circle'), 100, 'perfect circle should score 100');
+    await click('#replay');
+    await waitFor('document.querySelector("#c")', 'circle replay');
+    await click('.close');
+    await waitFor('document.querySelector(\'[data-g="circle"]\')', 'floor after replay close');
 
-OOžØÛÛœÝÏYØÝ[Y[œ]Y\žTÙ[XÝÜŠ	ÈØÉÊNØËœÙ]Ú[\Ø\\™OJ
-OOžßNØË›ÛœÚ[\™ÝÛŠÛÙ™œÙ]ŽÙ™œÙ]NŒLLÚ[\’YŒ_JNÙ›ÜŠ]OLNÚOLŒÚJÊÊXË›ÛœÚ[\›[Ý™JÛÙ™œÙ]Ž
-ÚJŒL‹Ù™œÙ]NŒLL
-ÓX]œÚ[ŠKÌÊJŒÍKÚ[\’YŒ_JNØË›ÛœÚ[\\
-ßJNÙØÝ[Y[œ]Y\žTÙ[XÝÜŠ	ÈÜ™]™X[	ÊK˜ÛXÚÊ
-NÜ™]\›ˆY_JJ
-X
-NÂˆ]ØZ]ØZ]›ÜŠ	ÙØÝ[Y[œ]Y\žTÙ[XÝÜŠˆÜ™\^HŠIË	ÛÙÛÈ™XØ[™\Ý[ÉÊNÂˆ]ØZ]˜XÚÕÑ›ÛÜŠ
-NÂ‚ˆËÈÛÛ™HÛÛ^È›ÝYÚ]ÈÙ™›[™HÙ[X[XÈ™ZYÚ›ÜšÛÙË‚ˆ]ØZ]Ý\Ø[YJ	ØÛÛ^ÉÊNÂˆ]ØZ]ØZ]›ÜŠ	ÙØÝ[Y[œ]Y\žTÙ[XÝÜŠˆÝÛÜ™ŠIË	ÐÛÛ^ÈÝY\ÜÙ\ÉÊNÂˆ]ØZ][Š
+    // Krillion: finish seven real question screens; each response is recorded.
+    await startGame('krillion');
+    for (let i = 0; i < 7; i++) {
+      await waitFor('document.querySelector(".choices button")', 'Krillion question ' + (i + 1));
+      await run('document.querySelector(".choices button").click(); true');
+    }
+    await waitFor('document.querySelector("#replay")', 'Krillion results');
+    await backToFloor();
 
+    // Perceptle: complete count, tracking, angle, tempo, and split rounds.
+    await startGame('perceptle');
+    await waitFor('document.querySelector("#answer") && !document.querySelector("#answer").disabled', 'Perceptle count reveal', 5000);
+    await run('document.querySelector("#answer").value="1";document.querySelector("#submit").click();true');
+    await waitFor('document.querySelector("[data-n]")', 'Perceptle tracking choices', 10000);
+    await run('document.querySelector("[data-n]").click();true');
+    await waitFor('document.querySelector("#submit")', 'Perceptle angle');
+    await run('document.querySelector("#submit").click();true');
+    await waitFor('document.querySelector("#beat")', 'Perceptle tempo');
+    await waitFor('document.querySelector("#beat") && document.querySelector("#beat").textContent.includes("YOUR TURN")', 'tempo playback', 12000);
+    await run('for(let i=0;i<4;i++)document.querySelector("#tap").click();true');
+    await waitFor('document.querySelector("#submit")', 'Perceptle split');
+    await run('document.querySelector("#submit").click();true');
+    await waitFor('document.querySelector("#replay")', 'Perceptle results');
+    await backToFloor();
 
-OOžÙ›ÜŠÛÛœÝÛÜ™ÙˆÉÛØÙX[‰Ë	ÙØ\™[‰Ë	ÛÜ˜š]	Ë	Û]\ÚXÉË	Øœ™XY	×J^ØÛÛœÝ[œ]YØÝ[Y[œ]Y\žTÙ[XÝÜŠ	ÈÝÛÜ™	ÊNÚYŠZ[œ]
-Xœ™XZÎÚ[œ]˜[YO]ÛÜ™ÙØÝ[Y[œ]Y\žTÙ[XÝÜŠ	ÈÙÝY\ÜÉÊK˜ÛXÚÊ
-_\™]\›ˆY_JJ
-X
-NÂˆ]ØZ]ØZ]›ÜŠ	ÙØÝ[Y[œ]Y\žTÙ[XÝÜŠˆÜ™\^HŠIË	ÐÛÛ^È™\Ý[ÉÊNÂˆÛÛœÝ™\Ý[H]ØZ][Š	Ò”ÓÓ‹œÝš[™ÚYžJÜØÛÜ™\Î’”ÓÓ‹œ\œÙJØØ[ÝÜ˜YÙK™Ù]][JœØÛÜ™\ÈŠ_žßHŠK\ÝÜžN’”ÓÓ‹œ\œÙJØØ[ÝÜ˜YÙK™Ù]][Jš\ÝÜžHŠ_–×HŠ_JIÊNÂˆÛÛœÝ]HH”ÓÓ‹œ\œÙJ™\Ý[
-NÂˆ\ÜÙ\›ÚÊYË™]™\žJYOˆ[X™\‹š\Ñš[š]J]KœØÛÜ™\ÖÚYJJK	Ø[Ú^Ø[Y\ÈÚÝ[Ø]™HH™\ÝØÛÜ™IÊNÂˆ\ÜÙ\›ÚÊ]Kš\ÝÜžK›[™ÝH‹	Ø[Ú^ÛÛ\]Y›Ý[™ÈÚÝ[™H[ˆ\ÝÜžIÊNÂˆÛÛœÝ\˜Ù[YÙHH]ØZ][Š	ÐY\™ÛÝÐÛÜ™K™Ø[Y\”\˜Ù[YÙJ”ÓÓ‹œ\œÙJØØ[ÝÜ˜YÙK™Ù]][JœØÛÜ™\ÈŠ_žßHŠK	È
-È”ÓÓ‹œÝš[™ÚYžJYÊH
-È	ÊIÊNÂˆ\ÜÙ\›ÚÊ[X™\‹š\Ñš[š]J\˜Ù[YÙJK	ÑØ[Y\ˆ\˜Ù[YÙHÚÝ[Ø[Ý[]HÛ›HY\ˆ[Ú^Ø[Y\ÉÊNÂˆÛÛœÛÛK›ÙÊ	ÖÔPWHTÔÎˆÚ^^XX›H›Ý[™Ë™\^KØØ[™\ÝØÛÜ™\Ë\ÝÜžK[™Ø[Y\ˆ\˜Ù[YÙH
-	È
-È\˜Ù[YÙH
-È	ÉJK‰ÊNÂˆ\œ]Z]
+    // Head Count hides faces before enabling the response.
+    await startGame('headcount');
+    await waitFor('document.querySelector("#answer") && !document.querySelector("#answer").disabled', 'Head Count answer window', 6000);
+    await run('document.querySelector("#answer").value="0";document.querySelector("#submit").click();true');
+    await waitFor('document.querySelector("#replay")', 'Head Count results');
+    await backToFloor();
 
-NÂˆHØ]Ú
-\œ›ÜŠHÂˆÛÛœÛÛK™\œ›ÜŠ	ÖÔPWHRS‰Ë\œ›Üˆ	‰ˆ\œ›Ü‹œÝXÚÈ\œ›ÜŠNÂˆ\™^]
-JNÂˆBŸNÂ
+    // Logo recall requires the study window to end before drawing is enabled.
+    await startGame('logos');
+    await waitFor('document.querySelector("#reveal") && !document.querySelector("#reveal").disabled', 'logo recall window', 6000);
+    await run(`(()=>{const c=document.querySelector('#c');c.setPointerCapture=()=>{};c.onpointerdown({offsetX:80,offsetY:110,pointerId:1});for(let i=1;i<=20;i++)c.onpointermove({offsetX:80+i*12,offsetY:110+Math.sin(i/3)*35,pointerId:1});c.onpointerup({});document.querySelector('#reveal').click();return true})()`);
+    await waitFor('document.querySelector("#replay")', 'logo recall results');
+    await backToFloor();
+
+    // Solve Contexto through its offline semantic neighborhoods.
+    await startGame('contexto');
+    await waitFor('document.querySelector("#word")', 'Contexto guesses');
+    await run(`(()=>{for(const word of ['ocean','garden','orbit','music','bread']){const input=document.querySelector('#word');if(!input)break;input.value=word;document.querySelector('#guess').click()}return true})()`);
+    await waitFor('document.querySelector("#replay")', 'Contexto results');
+    const result = await run('JSON.stringify({scores:JSON.parse(localStorage.getItem("scores")||"{}"),history:JSON.parse(localStorage.getItem("history")||"[]")})');
+    const data = JSON.parse(result);
+    assert.ok(ids.every(id => Number.isFinite(data.scores[id])), 'all six games should save a best score');
+    assert.ok(data.history.length >= 6, 'all six completed rounds should be in history');
+    const percentage = await run('AfterglowCore.gamerPercentage(JSON.parse(localStorage.getItem("scores")||"{}"),' + JSON.stringify(ids) + ')');
+    assert.ok(Number.isFinite(percentage), 'Gamer Percentage should calculate only after all six games');
+    console.log('[QA] PASS: six playable rounds, replay, local best scores, history, and Gamer Percentage (' + percentage + '%).');
+    app.quit();
+  } catch (error) {
+    console.error('[QA] FAIL:', error && error.stack || error);
+    app.exit(1);
+  }
+};

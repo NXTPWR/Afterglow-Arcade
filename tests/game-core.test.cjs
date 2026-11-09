@@ -1,85 +1,55 @@
-YªçŠx³¬uç%j·Â+ar‰ì¶ë•ë_¢ºÞjË"‚v›•ëÚ®&›•ëÛÛœÝ\ÝH™\]Z\™J	Û›ÙN\Ý	ÊNÂ˜ÛÛœÝ\ÜÙ\H™\]Z\™J	Û›ÙN˜\ÜÙ\ÜÝšXÝ	ÊNÂ˜ÛÛœÝÛÜ™HH™\]Z\™J	Ë‹‹ÙØ[YKXÛÜ™KšœÉÊNÂ‚\Ý
-	Ô\™™XÝÚ\˜ÛH™]Ø\™ÈHÛÜÙY]™[ˆÚ\˜ÛH[™™Z™XÝÈ[\HÝ›ÚÙ\ÉË
+const test = require('node:test');
+const assert = require('node:assert/strict');
+const core = require('../game-core.js');
 
-HOˆÂˆÛÛœÝÚ[ÈH\œ˜^K™œ›ÛJÈ[™ÝˆÍŒHK
-ËJHOˆÂˆÛÛœÝ[™ÛHHH
-ˆX]”H
-ˆˆÈÍŒÂˆ™]\›ˆÌML
-ÈX]˜ÛÜÊ[™ÛJH
-ˆÌLL
-ÈX]œÚ[Š[™ÛJH
-ˆÌNÂˆJNÂˆ\ÜÙ\™\]X[
-ÛÜ™KœØÛÜ™PÚ\˜ÛJÚ[ÊKœØÛÜ™KL
-NÂˆ\ÜÙ\™\]X[
-ÛÜ™KœØÛÜ™PÚ\˜ÛJ×JKš[˜[YYJNÂˆÛÛœÝ[™HH\œ˜^K™œ›ÛJÈ[™ÝˆÌK
-ËJHOˆÚH
-ˆJNÂˆ\ÜÙ\›ÚÊÛÜ™KœØÛÜ™PÚ\˜ÛJ[™JKœØÛÜ™HŒ
-NÂŸJNÂ‚\Ý
-	ÜØÛÜ™H\Ý[X]ÜœÈ›Ü›X[^™H[™Û[\Z\ˆ™\Ý[ÉË
+test('Perfect Circle rewards a closed, even circle and rejects empty strokes', () => {
+  const points = Array.from({ length: 361 }, (_, i) => {
+    const angle = i * Math.PI * 2 / 360;
+    return [150 + Math.cos(angle) * 70, 110 + Math.sin(angle) * 70];
+  });
+  assert.equal(core.scoreCircle(points).score, 100);
+  assert.equal(core.scoreCircle([]).invalid, true);
+  const line = Array.from({ length: 30 }, (_, i) => [i * 4, 40]);
+  assert.ok(core.scoreCircle(line).score < 20);
+});
 
-HOˆÂˆ\ÜÙ\™\]X[
-ÛÜ™KœØÛÜ™Q\Ý[X]JÌÌ
-KL
-NÂˆ\ÜÙ\™\]X[
-ÛÜ™KœØÛÜ™Q\Ý[X]JÌŒ
-K
-NÂˆ\ÜÙ\™\]X[
-ÛÜ™KœØÛÜ™P[™ÛJLL
-KL
-NÂˆ\ÜÙ\™\]X[
-ÛÜ™KœØÛÜ™P[™ÛJL
-KL
-NÂˆ\ÜÙ\™\]X[
-ÛÜ™KœØÛÜ™Qœ˜XÝ[ÛŠŒ‹ŒŠKL
-NÂˆ\ÜÙ\™\]X[
-ÛÜ™KœØÛÜ™Qœ˜XÝ[ÛŠŒ‹
-KÎ
-NÂˆ\ÜÙ\™\]X[
-ÛÜ™KœØÛÜ™RÜš[[ÛŠËÊKL
-NÂˆ\ÜÙ\™\]X[
-ÛÜ™KœØÛÜ™RÜš[[ÛŠÊK
-NÂŸJNÂ‚\Ý
-	Ý[\ÈÛÛ\\™\ÈXXÚ\[\˜[ÈHX]Ú[™È\Ü^YY[\˜[	Ë
+test('score estimators normalize and clamp their results', () => {
+  assert.equal(core.scoreEstimate(30, 30), 100);
+  assert.equal(core.scoreEstimate(30, 60), 0);
+  assert.equal(core.scoreAngle(90, 90), 100);
+  assert.equal(core.scoreAngle(0, 90), 50);
+  assert.equal(core.scoreFraction(62, 62), 100);
+  assert.equal(core.scoreFraction(62, 0), 38);
+  assert.equal(core.scoreKrillion(7, 7), 100);
+  assert.equal(core.scoreKrillion(0, 7), 0);
+});
 
-HOˆÂˆ\ÜÙ\™\]X[
-ÛÜ™KœØÛÜ™U[\ÊÍLŒKÌLMNLLJKL
-NÂˆ\ÜÙ\™\]X[
-ÛÜ™KœØÛÜ™U[\ÊÍLŒKÌLÌLÌJK
-NÂŸJNÂ‚\Ý
-	ÛÙÛÈ™XØ[\Ù\ÈHÞ[[Y]šXÈÛ\˜[X\ÚÈØÛÜ™IË
+test('tempo compares each tap interval to the matching displayed interval', () => {
+  assert.equal(core.scoreTempo([400, 500, 600], [1000, 1400, 1900, 2500]), 100);
+  assert.equal(core.scoreTempo([400, 500, 600], [1000, 3000, 5000, 7000]), 0);
+});
 
-HOˆÂˆÛÛœÝ\™Ù]H™]ÈZ[\œ˜^JL
-NÂˆ\™Ù]ÍHH\™Ù]ÍWHH\™Ù]ÍMHH\™Ù]ÍMWHHNÂˆÛÛœÝØ[YHH\™Ù]œÛXÙJ
-NÂˆÛÛœÝ™X\˜žHH™]ÈZ[\œ˜^JL
-NÂˆ™X\˜žVÍWHH™X\˜žVÍ—HH™X\˜žVÍMWHH™X\˜žVÍM—HHNÂˆÛÛœÝ[\HH™]ÈZ[\œ˜^JL
-NÂˆ\ÜÙ\™\]X[
-ÛÜ™KœØÛÜ™U˜XÙSX]Ú
-\™Ù]Ø[YK
-KL
-NÂˆ\ÜÙ\›ÚÊÛÜ™KœØÛÜ™U˜XÙSX]Ú
-\™Ù]™X\˜žKŠHH
-NÂˆ\ÜÙ\™\]X[
-ÛÜ™KœØÛÜ™U˜XÙSX]Ú
-\™Ù][\KŠK
-NÂŸJNÂ‚\Ý
-	ÑØ[Y\ˆ\˜Ù[YÙH™\]Z\™\ÈÚ^˜[Y™\ÝØÛÜ™\ÉË
+test('logo recall uses a symmetric tolerant mask score', () => {
+  const target = new Uint8Array(100);
+  target[44] = target[45] = target[54] = target[55] = 1;
+  const same = target.slice();
+  const nearby = new Uint8Array(100);
+  nearby[45] = nearby[46] = nearby[55] = nearby[56] = 1;
+  const empty = new Uint8Array(100);
+  assert.equal(core.scoreTraceMatch(target, same, 0), 100);
+  assert.ok(core.scoreTraceMatch(target, nearby, 2) >= 80);
+  assert.equal(core.scoreTraceMatch(target, empty, 2), 0);
+});
 
-HOˆÂˆÛÛœÝYÈHÉØÚ\˜ÛIË	ÚÜš[[Û‰Ë	Ü\˜Ù\IË	ÚXYÛÝ[	Ë	ÛÙÛÜÉË	ØÛÛ^É×NÂˆ\ÜÙ\™\]X[
-ÛÜ™K™Ø[Y\”\˜Ù[YÙJÈÚ\˜ÛNˆLÜš[[ÛŽˆKYÊK[
-NÂˆ\ÜÙ\™\]X[
-ÛÜ™K™Ø[Y\”\˜Ù[YÙJØš™XÝ™œ›ÛQ[šY\ÊYË›X\
-YOˆÚYJJKYÊK
-NÂˆ\ÜÙ\™\]X[
-ÛÜ™K™Ø[Y\”\˜Ù[YÙJØš™XÝ™œ›ÛQ[šY\ÊYË›X\
-YOˆÚYLWJJKYÊK[
-NÂŸJNÂ‚\Ý
-	ÐÛÛ^ÈÚ]™\È[Ü™Y]ÈHš\œÝYÝY\ÜÈÛÛ™H[™›Û™H›Üˆ[ˆ[™š[š\ÚY›Ý[™	Ë
+test('Gamer Percentage requires six valid best scores', () => {
+  const ids = ['circle', 'krillion', 'perceptle', 'headcount', 'logos', 'contexto'];
+  assert.equal(core.gamerPercentage({ circle: 100, krillion: 80 }, ids), null);
+  assert.equal(core.gamerPercentage(Object.fromEntries(ids.map(id => [id, 80])), ids), 80);
+  assert.equal(core.gamerPercentage(Object.fromEntries(ids.map(id => [id, 101])), ids), null);
+});
 
-HOˆÂˆ\ÜÙ\™\]X[
-ÛÜ™KœØÛÜ™PÛÛ^ÊJKL
-NÂˆ\ÜÙ\™\]X[
-ÛÜ™KœØÛÜ™PÛÛ^ÊÊK
-NÂˆ\ÜÙ\™\]X[
-ÛÜ™KœØÛÜ™PÛÛ^Ê
-K
-NÂŸJNÂ
+test('Contexto gives full credit to a first-guess solve and none for an unfinished round', () => {
+  assert.equal(core.scoreContexto(1), 100);
+  assert.equal(core.scoreContexto(3), 80);
+  assert.equal(core.scoreContexto(0), 0);
+});

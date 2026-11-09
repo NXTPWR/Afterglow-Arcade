@@ -1,37 +1,49 @@
-YªçŠx³¬uç%j·Â+ar‰ì¶ë•ë_¢ºÞjË"‚v›•ëÚ®&›•ëÛÛœÝÈ\œ›ÝÜÙ\•Ú[™ÝÈHH™\]Z\™J	Ù[XÝ›Û‰ÊNÂ˜ÛÛœÝ]H™\]Z\™J	Û›ÙNœ]	ÊNÂ‚˜ÛÛœÝ\˜[YHH	ÐY\™ÛÝÈ\˜ØYHÛX‰ÎÂ˜\œÙ]˜[YJ\˜[YJNÂšYˆ
-›ØÙ\ÜË™[‹Q•T‘ÓÕ×ÔPHOOH	ÌIÊH\™\ØX›R\™Ø\™PXØÙ[\˜][ÛŠ
-NÂ˜\œÙ]\\Ù\“[Ù[Y
-	ØÛÛK˜Y\™ÛÝË˜\˜ØYIÊNÂ˜\œÙ]]
-	Ý\Ù\‘]IË›ØÙ\ÜË™[‹Q•T‘ÓÕ×ÕTÑT—ÑUWÑTˆ]š›Ú[Š\™Ù]]
-	Ø\]IÊK\˜[YJJNÂ‚šYˆ
-X\œ™\]Y\ÝÚ[™ÛR[œÝ[˜ÙSØÚÊ
-JHÂˆ\œ]Z]
+const { app, BrowserWindow } = require('electron');
+const path = require('node:path');
 
-NÂŸH[ÙHÂˆ]XZ[•Ú[™ÝÎÂˆÛÛœÝÜ™X]UÚ[™ÝÈH
+const appName = 'Afterglow Arcade Club';
+app.setName(appName);
+if (process.env.AFTERGLOW_QA === '1') app.disableHardwareAcceleration();
+app.setAppUserModelId('com.afterglow.arcade');
+app.setPath('userData', process.env.AFTERGLOW_USER_DATA_DIR || path.join(app.getPath('appData'), appName));
 
-HOˆÂˆXZ[•Ú[™ÝÈH™]Èœ›ÝÜÙ\•Ú[™ÝÊÂˆ]Nˆ\˜[YKˆÚYˆLÍŒˆZYÚˆLˆZ[•ÚYˆLˆZ[’ZYÚˆLˆ˜XÚÙÜ›Ý[™ÛÛÜŽˆ	ÈÌLŒL‰Ëˆ]]ÒYSY[P˜\ŽˆYKˆXÛÛŽˆ]š›Ú[Š×Ù\›˜[YK	Ë‹‹Ø\ÜÙ]ËÚXÛÛ‹šXÛÉÊKˆÙX”™Y™\™[˜Ù\ÎˆÂˆÛÛ^\ÛÛ][ÛŽˆYKˆ›ÙR[YÜ˜][ÛŽˆ˜[ÙKˆØ[™›ÞˆYBˆBˆJNÂˆXZ[•Ú[™ÝË›ØYš[J]š›Ú[Š×Ù\›˜[YK	Ë‹‹Ú[™^š[	ÊJNÂˆYˆ
-›ØÙ\ÜË™[‹Q•T‘ÓÕ×ÔPHOOH	ÌIÊHXZ[•Ú[™ÝËÙXÛÛ[Ë›Û˜ÙJ	ÙYYš[š\Ú[ØY	Ë
+if (!app.requestSingleInstanceLock()) {
+  app.quit();
+} else {
+  let mainWindow;
+  const createWindow = () => {
+    mainWindow = new BrowserWindow({
+      title: appName,
+      width: 1360,
+      height: 900,
+      minWidth: 900,
+      minHeight: 650,
+      backgroundColor: '#090b12',
+      autoHideMenuBar: true,
+      icon: path.join(__dirname, '../assets/icon.ico'),
+      webPreferences: {
+        contextIsolation: true,
+        nodeIntegration: false,
+        sandbox: true
+      }
+    });
+    mainWindow.loadFile(path.join(__dirname, '../index.html'));
+    if (process.env.AFTERGLOW_QA === '1') mainWindow.webContents.once('did-finish-load', () => require(path.join(__dirname, '../tests/electron-smoke.cjs'))({ app, window: mainWindow }));
+    mainWindow.on('closed', () => { mainWindow = null; });
+  };
 
-HOˆ™\]Z\™J]š›Ú[Š×Ù\›˜[YK	Ë‹‹Ý\ÝËÙ[XÝ›Û‹\Û[ÚÙK˜ÚœÉÊJJÈ\Ú[™ÝÎˆXZ[•Ú[™ÝÈJJNÂˆXZ[•Ú[™ÝË›ÛŠ	ØÛÜÙY	Ë
+  app.whenReady().then(createWindow);
+  app.on('second-instance', () => {
+    if (mainWindow) {
+      if (mainWindow.isMinimized()) mainWindow.restore();
+      mainWindow.focus();
+    }
+  });
+  app.on('activate', () => {
+    if (BrowserWindow.getAllWindows().length === 0) createWindow();
+  });
+}
 
-HOˆÈXZ[•Ú[™ÝÈH[ÈJNÂˆNÂ‚ˆ\Ú[”™XYJ
-K[ŠÜ™X]UÚ[™ÝÊNÂˆ\›ÛŠ	ÜÙXÛÛ™Z[œÝ[˜ÙIË
-
-HOˆÂˆYˆ
-XZ[•Ú[™ÝÊHÂˆYˆ
-XZ[•Ú[™ÝËš\ÓZ[š[Z^™Y
-
-JHXZ[•Ú[™ÝËœ™\ÝÜ™J
-NÂˆXZ[•Ú[™ÝË™›ØÝ\Ê
-NÂˆBˆJNÂˆ\›ÛŠ	ØXÝ]˜]IË
-
-HOˆÂˆYˆ
-œ›ÝÜÙ\•Ú[™ÝË™Ù][Ú[™ÝÜÊ
-K›[™ÝOOH
-HÜ™X]UÚ[™ÝÊ
-NÂˆJNÂŸB‚˜\›ÛŠ	ÝÚ[™ÝËX[XÛÜÙY	Ë
-
-HOˆÂˆYˆ
-›ØÙ\ÜËœ]›Ü›HOOH	Ù\Ú[‰ÊH\œ]Z]
-
-NÂŸJNÂ
+app.on('window-all-closed', () => {
+  if (process.platform !== 'darwin') app.quit();
+});

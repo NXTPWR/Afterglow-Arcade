@@ -1,510 +1,25 @@
-Y™Áäx≥¨uÁ%j∑ù¬+arâÏ∂ÎïÎ_¢∫ﬁjÀ"ÇvõïÎ⁄Æ&õïÎ
-
-
-OOûÿ€€ú›œV÷…ÿ⁄\ò€IÀ	‘\ôôX›⁄\ò€IÀ	¯•Î…À	‘ëP“T“S”âÀ	—ò]»H€[€›⁄\ò€H[ôYX\›\ôHòYX[€€ú⁄\›[òﬁKâ◊K…⁄‹ö[[€âÀ	“‹ö[[€éàHZ[H]ôIÀ	¯£ IÀ	’íUíPIÀ	‘Ÿ]ô[à[YYö]öXH]Y\›[€úÀâ◊K…‹\òŸ\IÀ	‘\òŸ\IÀ	¯•‚IÀ	‘Tê—TS”âÀ	—ö]ôHö\›X[[ô\›[X][€à⁄[[ôŸ\Àâ◊K…⁄XY€›[ù	À	“XY€›[ù	À	¯•©âÀ	’íT’PSQSS‘ñIÀ	–€›[ùH‹õ›ŸôYõ‹ôH]òY\Àâ◊K…€Ÿ€‹…À	—ò]»Ÿ€‹»úõ€HY[[‹ûIÀ	¯ß,…À	‘ëP–S	À	‘›YHHX\öÀ[àôYò]»]úõ€HY[[‹ûKâ◊K…ÿ€€ù^…À	–€€ù^…À	¯£%IÀ	’”‘ë—Sî—IÀ	—ö[ôHŸX‹ô]€‹ô\⁄[ô»Ÿ[X[ùX»€Y\Àâ◊WKõX\
-Oä⁄YûÃKò[YNûÃWKX€€éûÃóKYŒûÃ◊K\ÿŒûÕ_JJNŸù[ò›[€àôXYú€€äŸ^Kò[òX⁄ ^›û^ÿ€€ú›ò[YORî””ãú\úŸJÿÿ[›‹òYŸKôŸ]][JŸ^JJN‹ô]\õàò[YOœŸò[òX⁄ﬂXÿ]⁄‹ô]\õàò[òX⁄ﬂ_X€€ú››‹ôYÿ€‹ô\œ\ôXYú€€ä	‹ÿ€‹ô\…ÀﬂJN€]œ^ﬂN—Àôõ‹ëXX⁄
-œOûÿ€€ú›ò[YOSù[Xô\ä›‹ôYÿ€‹ô\œÀñŸÀöYJN⁄Yäù[Xô\ãö\—ö[ö]Jò[YJIâùò[YOèL	âùò[YOLL
-T÷ŸÀöYOSX]úõ›[ô
-ò[YJ_JNÿ€€ú››‹ôY\›‹ûO\ôXYú€€ä	⁄\›‹ûIÀ◊JN€]P\úò^Kö\–\úò^J›‹ôY\›‹ûJO‹›‹ôY\›‹ûKú€XŸJLÃ
-Kôõ]X\
-][OOûÿ€€ú›ÿ[YOQÀôö[ô
-œOôÀõò[YOOOZ][OÀõò[YJNÿ€€ú›ÿ€‹ôOSù[Xô\ä][OÀúÿ€‹ôJNÿ€€ú›]OQ]Kú\úŸJ][OÀô]JN‹ô]\õàÿ[YIâìù[Xô\ãö\—ö[ö]Jÿ€‹ôJIâúÿ€‹ôOèL	âúÿ€‹ôOLL	âìù[Xô\ãö\—ö[ö]J]JO÷ﬁ€ò[YNôÿ[YKõò[YKÿ€‹ôNìX]úõ›[ô
-ÿ€‹ôJK]Nõô]»]J]JKù“T”‘›ö[ô 
-_WNñ◊_JNñ◊K\Ÿ\èT›ö[ô ÿÿ[›‹òYŸKôŸ]][J	›\Ÿ\â _	—›Y\›^Y\â Kú€XŸJç
-KYŸOI”›ô\ùöY]…À[Ÿ[€X[ù\[ù[ÿ€€ú›	\OOôÿ›[Y[ùú]Y\ûTŸ[X›‹äJNŸù[ò›[€à\ÿÿ\R[
-ò[YJ^‹ô]\õà›ö[ô ò[YJKúô\XŸJ÷…èàâ◊KŸÀ⁄\èOä……âŒâ…ò[\…À	œ	Œâ…õ…À	œâŒâ…ô›…À	»âŒâ…ú][›…Àâ»éâ…àÃŒN…ﬂVÿ⁄\óJJ_Yù[ò›[€àÿ]ôJ
-^“Rú€XŸJLÃ
-N›û^€ÿÿ[›‹òYŸKúŸ]][J	‹ÿ€‹ô\…Àî””ãú›ö[ô⁄YûJ JN€ÿÿ[›‹òYŸKúŸ]][J	⁄\›‹ûIÀî””ãú›ö[ô⁄YûJ
-J_Xÿ]⁄
-\úõ‹ä^ÿ€€ú€€Kô\úõ‹ä	–€›[õ›ÿ]ôHYù\ô€›»õŸ‹ô\‹ŒâÀ\úõ‹ä__Yù[ò›[€à€€\]Y
-
-^‹ô]\õàÀôö[\äœOî÷ŸÀöYHO[ù[
-Kõ[ô›Yù[ò›[€à\òŸ[ùYŸJ
-^‹ô]\õàYù\ô€›–€‹ôKôÿ[Y\î\òŸ[ùYŸJÀÀõX\
-œOôÀöY
-J_Yù[ò›[€àXY\ú 
-^⁄Yä\òŸ[ùYŸJ
-OOO[ù[
-\ô]\õà	œ]à€\‹œHú[ô[èèœî›õ€ôŸ\›[ôŸXZŸ\›⁄œèê€€\]H[⁄^ÿ[Y\»»[õÿ⁄»[›\à€€X›[€à€€\\ö\€€ãè‹èŸ]èâŒ€]ò[öŸYQÀú€XŸJ
-Kú€‹ù
-
-KäOOî÷ÿãöYKT÷ÿKöYJN‹ô]\õà	œ]à€\‹œHú[ô[èèœî›õ€ôŸ\›[ôŸXZŸ\›⁄œèî›õ€ôŸ\›àèâ ‹ò[öŸYÃKõò[YJ…œÿèà0≠»	 ‘÷‹ò[öŸYÃKöYJ……O‹èëõÿ›\»ô^àèâ ‹ò[öŸYÕWKõò[YJ…œÿèà0≠»	 ‘÷‹ò[öŸYÕWKöYJ……O‹èŸ]èâﬂYù[ò›[€àÿ\ô 
-^‹ô]\õàÀõX\
-œOâœ\ùX€H€\‹œHòÿ\ôà]KYœHâ ŸÀöY
-…»à›[OHãKXŒàÿôôçéHèè‹[à€\‹œHöX€€àèâ ŸÀöX€€ä…œ‹‹[èè‹[à€\‹œHùY»èâ ŸÀùY …œ‹‹[èèœâ ŸÀõò[YJ…œ⁄œèâ ŸÀô\ÿ …œ‹èõ€›\èè‹[è∏•Ì»∏†$ÕRSè‹‹[èè‹[èâ  ÷ŸÀöYHO[ù[…–ëT’	 ‘÷ŸÀöYJ……IŒâ‘VHì’Së8°§â J…œ‹‹[èèŸõ€›\èèÿ\ùX€Oâ Köõ⁄[ä	… _Yù[ò›[€àô[ô\ä
-^»	
-	»‹^Y\â Kù^€€ù[ù]\Ÿ\é…
-	»ÿ‹ù[Xâ Kù^€€ù[ù\YŸKù’\\êÿ\ŸJ
-N€]OI
-	»ÿ\	 N⁄YäYŸOOOI”›ô\ùöY]… ^ÿKö[õô\íSIœŸX›[€à€\‹œHö\õ»èè]à€\‹œHô^YXúõ›»èïHQïTà’Tî»’TïTëOŸ]èèOî⁄^ÿ^\»»\›úèû[›\à[Oö[ú›[ò›ÀèŸ[Oè⁄OèêH]HôX⁄\⁄[€ãàH]H\òŸ\[€ãH⁄€H›Ÿà8†'€ôH[‹ôHõ›[ô∏†'HŸ[€€YH»[›\àô]»ò]õ‹ö]H€‹õô\àŸàH\òÿYKè‹è]à€\‹œHòX›[€ú»èèù]€à€\‹œHúö[X\ûHà]K\YŸOHëÿ[YHXúò\ûHèëV‘ëHH–SQT»8°§èÿù]€èèù]€à€\‹œHúŸX€€ô\ûHà]K\YŸOHì^HõŸö[HèñS’Tàì—íSH8°•œÿù]€èèŸ]èè€\‹œHú€X[è∏ß)à“V“SSë—T¯‡ 8•‚HT“’‘QUS”∏‡ åKåå‹è‹ŸX›[€èè]à€\‹œHú›]»èè]à€\‹œHú›]èè€X[ë–SQT»””TUQ‹€X[èèâ ÿ€€\]Y
-
-J…»»èÿèèŸ]èè]à€\‹œHú›]èè€X[ë–SQTàTê—SïQ—O‹€X[èèâ  \òŸ[ùYŸJ
-OO[ù[…¯†%	Œú\òŸ[ùYŸJ
-J……I J…œÿèèŸ]èè]à€\‹œHú›]èè€X[îì’Së»VQQ‹€X[èèâ “õ[ô›
-…œÿèèŸ]èè]à€\‹œHú›]èè€X[îVQTà’UTœ‹€X[èèâ  \Ÿ\èOOI—›Y\›^Y\âœ…—’QT’	Œâ”––Sì—íSI J…œÿèèŸ]èèŸ]èè]à€\‹œHúŸX›[€àèè]èè]à€\‹œHô^YXúõ›»èîP“»S’TàS”—Ÿ]èèèïHÿ[YHõ€‹è⁄èèŸ]èèù]€à€\‹œHúŸX€€ô\ûHà]K\YŸOHëÿ[YHXúò\ûHèïíQU»S“Vÿù]€èèŸ]èè]à€\‹œHô‹öYèâ ÿÿ\ô 
-J…œŸ]èè]à€\‹œHú[ô[õŸ‹ô\‹»èè]à€\‹œHúö[ô»à›[OHãK\â ÿ€€\]Y
-
-KÕäåL
-……NÀK]\ôŸ]â ÿ€€\]Y
-
-KÕäåL
-……Hèâ ”X]úõ›[ô
-€€\]Y
-
-KÕäåL
-J……OŸ]èè]èèèâ ÿ€€\]Y
-
-J…»Ÿààÿ[Y\»€€\]Oÿèèëö[ö\⁄]ô\ûHÿ[YH»ÿ[›[]H[›\àÿ[Y\à\òŸ[ùYŸKàXX⁄€›[ù»\]X[N»ô\›ÿ€‹ôH\»\ŸYè‹è]à€\‹œHòò\àèèH›[OHù⁄Yâ ÿ€€\]Y
-
-KÕäåL
-……Hèè⁄OèŸ]èèŸ]èèŸ]èè]à€\‹œHú[ô[õŸ‹ô\‹»èè]à€\‹œHúö[ô»\òŸ[ùYŸK\ö[ô»à›[OHãK\â  \òŸ[ùYŸJ
-OOO[ù[Ãú\òŸ[ùYŸJ
-JJ……NÀK]\ôŸ]â  \òŸ[ùYŸJ
-OOO[ù[Ãú\òŸ[ùYŸJ
-JJ……Hèâ  \òŸ[ùYŸJ
-OOO[ù[…¯†%	Œú\òŸ[ùYŸJ
-J……I J…œŸ]èè]èèèëÿ[Y\à\òŸ[ùYŸOÿèèâ  \òŸ[ùYŸJ
-OOO[ù[…–€€\]H[⁄^ÿ[Y\Àà[›\àô\›ÿ€‹ôH[àXX⁄€ôH€›[ù»\]X[KâŒâ—XX⁄ÿ[YH€€ùöXù]\»€ôH\]X[⁄\ôHŸà[›\à€€X›[€àÿ€‹ôKâ J…œ‹èŸ]èèŸ]èâﬂY[ŸHYäYŸOOOI—ÿ[YHXúò\ûI ^ÿKö[õô\íSIœ]à€\‹œHô^YXúõ›»èïH””P’S”èŸ]èèOê⁄€‹ŸH[›\à⁄[[ôŸKè⁄Oè€\‹œHõXYèî⁄^⁄‹ùÿ[Y\À⁄^[ú›[ò›ÀàõŸ‹ô\‹»\ú⁄\›»€à\»]öXŸKè‹è]à€\‹œHô‹öYèâ ÿÿ\ô 
-J…œŸ]èâﬂY[ŸHYäYŸOOOI”^HõŸö[I ^ÿKö[õô\íSIœ]à€\‹œHô^YXúõ›»èîVQTà–TëŸ]èèOâ Ÿ\ÿÿ\R[
-\Ÿ\äJ…œ⁄Oè€\‹œHõXYèë›Y\›õŸ‹ô\‹»\»ÿÿ[»\»€€\]\ãàŸX›\ôH€›YXÿ€›[ù»\ôHõ›€€ôöY›\ôYè‹è]à€\‹œHú[ô[èèœêô\›ÿ€‹ô\œ⁄œèXõH€\‹œHùXõHèâ —ÀõX\
-œOâœèèâ ŸÀöX€€ä…¯‡ 	 ŸÀõò[YJ…œ›èâ  ÷ŸÀöYOO[ù[…¯†%	Œî÷ŸÀöYJ……I J…œ›è›èâ Köõ⁄[ä	… J…œèèèèëÿ[Y\à\òŸ[ùYŸOÿèè›èâ  \òŸ[ùYŸJ
-OO[ù[…¯†%	Œú\òŸ[ùYŸJ
-J……I J…œ›è›èè›XõOèŸ]èâ €XY\ú 
-J…œ]à€\‹œHú[ô[èèœîôXŸ[ùõ›[ôœ⁄œâ  õ[ô›“ú€XŸJN
-Kúô]ô\úŸJ
-KõX\
-Oâœâ ﬁõò[YJ…»0≠»	 €ô]»]Jô]JKù”ÿÿ[Q]T›ö[ô 
-J…»0≠»	 ﬁúÿ€‹ôJ……O‹â Köõ⁄[ä	… Nâœìõ»õ›[ô»^YYY]è‹â J…œŸ]èèù]€à€\‹œHúö[X\ûHàYHòXÿ€›[ùèî—U––ST‘VHêSQOÿù]€èè€\‹œHú€X[èì––S”ìH0≠»—P’TëH”ìSëHP–”’Sï»TëHì’””ëíQ’TëQ‹âﬂY[Ÿ^ÿKö[õô\íSIœ]à€\‹œHô^YXúõ›»èîëQëTëSê—TœŸ]èèOìXZŸH][›\úÀè⁄Oè]à€\‹œHú[ô[èèîõŸ‹ô\‹»›‹òYŸNàÿÿ[»\»€€\]\ãè‹èù]€à€\‹œHúŸX€€ô\ûHàYHúô\Ÿ]èîëT—U––S–”‘ëTœÿù]€èèïô\ú⁄[€àKåå0≠»Yù\ô€›»\òÿYH\⁄›‹Y][€è‹èŸ]èâﬂXKú]Y\ûTŸ[X›‹ê[
-	÷Ÿ]K\YŸWI Kôõ‹ëXX⁄
-èOòãõ€ò€X⁄œJ
-OOô€ ãô]\Ÿ]úYŸJJNÿKú]Y\ûTŸ[X›‹ê[
-	÷Ÿ]KY◊I Kôõ‹ëXX⁄
-èOòãõ€ò€X⁄œJ
-OOú›\ù
-ãô]\Ÿ]ô JN⁄Yä	
-	»‹ô\Ÿ]	 JI
-	»‹ô\Ÿ]	 Kõ€ò€X⁄œJ
-OOû⁄Yä€€ôö\õJ	–€X\àÿÿ[ÿ€‹ô\œ… J^‘œ^ﬂN“V◊N‹ÿ]ôJ
-N‹ô[ô\ä
-__N⁄Yä	
-	»ÿXÿ€›[ù	 JI
-	»ÿXÿ€›[ù	 Kõ€ò€X⁄œXXÿ€›[ùYÿ›[Y[ùòY]ô[ù\›[ô\ä	⁄Ÿ^Y›€âÀOOû⁄YäKöŸ^OOOI—\ÿÿ\I…ââ
-	Àõ[Ÿ[	 JI
-	Àò€‹ŸI OÀò€X⁄ 
-_JNŸÿ›[Y[ùú]Y\ûTŸ[X›‹ä	€ò]â Kõ€ò€X⁄œYOOû€]èYKù\ôŸ]ò€‹Ÿ\›
-	÷Ÿ]K\YŸWI N⁄YääY€ ãô]\Ÿ]úYŸJ_NŸù[ò›[€à€ ä^‹YŸO]éŸÿ›[Y[ùú]Y\ûTŸ[X›‹ê[
-	€ò]àù]€â Kôõ‹ëXX⁄
-èOòãò€\‹”\›ùŸŸ€J	ÿX›]ôIÀãô]\Ÿ]úYŸOOO]äJN‹ô[ô\ä
-_Yù[ò›[€à[Ÿ[
-]K\ÿÀ[€X[ù\[ù[
-^€[Ÿ[€X[ù\X€X[ù\…
-	»€[Ÿ[	 Kö[õô\íSIœ]à€\‹œHõ[Ÿ[òX⁄»èè]à€\‹œHõ[Ÿ[èè]à€\‹œHõ[Ÿ[XYèè]èè]à€\‹œHô^YXúõ›»èêQïTë”’»Tê–QOŸ]èèèâ ›]J…œ⁄èèâ Ÿ\ÿ …œ‹èŸ]èèù]€à€\‹œHò€‹ŸHà\öXK[Xô[Hê€‹ŸHÿ[YHè∞Âœÿù]€èèŸ]èè]àYHòõŸHèâ ⁄[
-…œŸ]èèŸ]èèŸ]èâŒ…
-	Àò€‹ŸI Kôõÿ›\ 
-N…
-	Àò€‹ŸI Kõ€ò€X⁄œJ
-OOû€[Ÿ[€X[ù\Àä
-N€[Ÿ[€X[ù\[ù[…
-	»€[Ÿ[	 Kö[õô\íSI…ﬂ_Yù[ò›[€àö[ö\⁄
-Yò[]Z[I… ^€[Ÿ[€X[ù\Àä
-N€[Ÿ[€X[ù\[ù[›ò[SX]õX^
-X]õZ[äLX]úõ›[ô
-ù[Xô\ãö\—ö[ö]Jù[Xô\äò[
-JO”ù[Xô\äò[
-Nå
-JJN‘÷⁄YOSX]õX^
-÷⁄Y_ò[
-N“ú\⁄
-€ò[YNëÀôö[ô
-œOôÀöYOOZY
-Kõò[YKÿ€‹ôNùò[]Nõô]»]J
-Kù“T”‘›ö[ô 
-_JN‹ÿ]ôJ
-N€[Ÿ[
-	‘õ›[ô€€\]IÀ	÷[›\àô\›ÿ€‹ôH\»ÿ]ôYâÀ	œ]à€\‹œHú›YŸHèè]èè]à€\‹œHô^YXúõ›»èîì’Së–”‘ëOŸ]èè]à€\‹œHúÿ€‹ôHèâ ›ò[
-…»»LŸ]èèî\ú€€ò[ô\›à	 ‘÷⁄YJ……O‹â  ]Z[…œâ Ÿ\ÿÿ\R[
-]Z[
-J…œ‹âŒâ… J…œ]à€\‹œHòX›[€ú»èèù]€à€\‹œHúŸX€€ô\ûHàYHòòX⁄»èêêP“»»Hì”‘èÿù]€èèù]€à€\‹œHúö[X\ûHàYHúô\^HèîVHT»–SQHQ–RSèÿù]€èèŸ]èèŸ]èèŸ]èâ N…
-	»ÿòX⁄… Kõ€ò€X⁄œJ
-OOû…
-	»€[Ÿ[	 Kö[õô\íSI…Œ‹ô[ô\ä
-_N…
-	»‹ô\^I Kõ€ò€X⁄œJ
-OOû…
-	»€[Ÿ[	 Kö[õô\íSI…Œ‹ô[ô\ä
-N‹›\ù
-Y
-__Yù[ò›[€à›\ù
-Y
-^ ÿ⁄\ò€Nò⁄\ò€K‹ö[[€éö‹ö[[€ã\òŸ\Nú\òŸ\KXY€›[ùöXY€›[ùŸ€‹ŒõŸ€‹À€€ù^Œò€€ù^ﬂJV⁄YJ
-_Yù[ò›[€à⁄\ò€J
-^€[Ÿ[
-	‘\ôôX›⁄\ò€IÀ	—ò]»€ôH€€ù[ù[›\»⁄\ò€KâÀ	œ]à€\‹œHú›YŸHèè]à€\‹œHú›YŸZ[õô\àèèÿ[ùò\»€\‹œHòÿ[ùò\»àYHò»èèÿÿ[ùò\œèYHò⁄\ò€R[ùèëò]»⁄][›\ŸKà€X\à[ôô]ûH‹àÿ€‹ôKè‹èù]€à€\‹œHúŸX€€ô\ûHàYHò€X\àèê”PTèÿù]€èàù]€à€\‹œHúö[X\ûHàYHú›XõZ]èî–”‘ëOÿù]€èèŸ]èèŸ]èâ N€]œI
-	»ÿ… KXÀôŸ]€€ù^
-	Ãô	 NÿÀù⁄YXÀò€Y[ù⁄YÿÀöZY⁄Låå€]œV◊K›€èYò[ŸNÿÀõ€ú⁄[ù\ô›€èYOOûŸ›€è]ùYNﬁòôY⁄[î]
-
-Nﬁõ[›ôU KõŸôúŸ]KõŸôúŸ]JN‹Àú\⁄
-ŸKõŸôúŸ]KõŸôúŸ]WJNÿÀúŸ]⁄[ù\êÿ\\ôJKú⁄[ù\íY
-_NÿÀõ€ú⁄[ù\õ[›ôOYOOû⁄Yä›€ä^‹Àú\⁄
-ŸKõŸôúŸ]KõŸôúŸ]WJNﬁú›õ⁄ŸT›[OI»ÿôôçéIŒﬁõ[ôU⁄YLŒﬁõ[ôU KõŸôúŸ]KõŸôúŸ]JNﬁú›õ⁄ŸJ
-__NÿÀõ€ú⁄[ù\ù\J
-OOô›€èYò[ŸN…
-	»ÿ€X\â Kõ€ò€X⁄œJ
-OOûﬁò€X\îôX›
-Àù⁄YÀöZY⁄
-N‹œV◊_N…
-	»‹›XõZ]	 Kõ€ò€X⁄œJ
-OOû€]ô\›[PYù\ô€›–€‹ôKúÿ€‹ôP⁄\ò€J N⁄Yäô\›[ö[ùò[Y
-^…
-	»ÿ⁄\ò€R[ù	 Kù^€€ù[ùI—ò]»[‹ôHŸàH⁄\ò€HôYõ‹ôHÿ€‹ö[ôÀâŒ‹ô]\õüYö[ö\⁄
-	ÿ⁄\ò€IÀô\›[úÿ€‹ôK	‘ÿ€‹ôHôYõX›»òYX[€€ú⁄\›[òﬁK€‹›\ôK[ô›õ⁄ŸH€›ô\òYŸKâ __Yù[ò›[€à‹ö[[€ä
-^€]ò[öœV÷…”\ôŸ\›[ô]…À	“ù\]\âÀ…—X\ù	À	“ù\]\âÀ	”X\ú…À	’ô[ù\…◊WK…’⁄X⁄[ö[X[\»ôYHX\ùœ…À	”ÿ›‹\…À…‘⁄\ö…À	”ÿ›‹\…À	–‹òXâÀ	—€[â◊WK…”[‹›€€[[€à][‹‹\öX»ÿ\œ…À	”ö]õŸŸ[âÀ…”ﬁYŸ[âÀ	”ö]õŸŸ[âÀ	–\ô€€âÀ	“YõŸŸ[â◊WK…–]€ZX»ù[Xô\àŒO…À	—€€	À…‘⁄[ô\âÀ	—€€	À	–€‹\âÀ	“\õ€â◊WK…‘€X[\›ö[YO…À	ÃâÀ…ÃIÀ	ÃâÀ	Ã…À	Ã	◊WK…”\]ZYY][ôX\àõ€€H[\\ò]\ôO…À	”Y\ò›\ûIÀ…“\õ€âÀ	”Y\ò›\ûIÀ	–€‹\âÀ	÷ö[ò…◊WK…—Y\\›ÿŸX[è…À	‘X⁄YöX…À…–\ò›X…À	–][ùX…À	‘X⁄YöX…À	“[ôX[â◊WK…”\ôŸ\›[X[à‹ôÿ[è…À	‘⁄⁄[âÀ…”]ô\âÀ	‘⁄⁄[âÀ	“X\ù	À	”[ô…◊WK…‘[ù»Xú€‹òà⁄X⁄ÿ\œ…À	–ÿ\òõ€à[ﬁYIÀ…”ﬁYŸ[âÀ	–ÿ\òõ€à[ﬁYIÀ	”ö]õŸŸ[âÀ	“[][I◊WK…”€õHX[[X[ÿ\XõHŸàõY⁄…À	–ò]	À…–ò]	À	—õZ[ô»‹]Z\úô[	À	”›€	À	–€€Y€…◊WK…–ÿ\][Ÿàô]»ôX[[ô…À	’Ÿ[[ô›€âÀ…–]X⁄€[ô	À	’Ÿ[[ô›€âÀ	–⁄ö\›⁄\ò⁄	À	“[Z[€â◊WWKOXò[öÀú€XŸJ
-KOLÿ€‹ôOLŸõ‹ä]è\Kõ[ô›LN⁄èå⁄ãKJ^€]œSX]ôõ€‹äX]úò[ô€J
-JääÃJJN÷‹V⁄óKV⁄◊WOV‹V⁄◊KV⁄óW_\O\Kú€XŸJ NŸù[ò›[€à\⁄ 
-^⁄YäOOOM \ô]\õàö[ö\⁄
-	⁄‹ö[[€âÀYù\ô€›–€‹ôKúÿ€‹ôR‹ö[[€äÿ€‹ôK Kÿ€‹ôJ…»€‹úôX›[ú›Ÿ\ú»›]ŸàÀâ N€[Ÿ[
-	“‹ö[[€éàHZ[H]ôIÀ	‘]Y\›[€à	  JÃJJ…»Ÿà»0≠»çHŸX€€ô…À	œ]à€\‹œHú›YŸHèè]èè]à€\‹œHúÿ€‹ôHàYHù[Y\àèåçOŸ]èèœâ ‹V⁄WVÃJ…œ⁄œè]à€\‹œHò⁄⁄XŸ\»èâ ‹V⁄WVÃóKõX\
-Oâœù]€èâ ﬁ
-…œÿù]€èâ Köõ⁄[ä	… J…œŸ]èèëXX⁄€‹úôX›[ú›Ÿ\à€›[ù»\]X[Kà[ú›Ÿ\àôYõ‹ôH[YHù[ú»›]è‹èŸ]èèŸ]èâÀ
-
-OOò€X\í[ù\ùò[
-
-JN€]èLçN›\Ÿ][ù\ùò[
-
-
-OOû€ãKN⁄Yä	
-	»›[Y\â JI
-	»›[Y\â Kù^€€ù[ù[é⁄YäèL
-^ÿ€X\í[ù\ùò[
-
-N⁄J Œÿ\⁄ 
-__KL
-NŸÿ›[Y[ùú]Y\ûTŸ[X›‹ê[
-	Àò⁄⁄XŸ\»ù]€â Kôõ‹ëXX⁄
-èOòãõ€ò€X⁄œJ
-OOûÿ€X\í[ù\ùò[
-
-N⁄Yäãù^€€ù[ùOO\V⁄WVÃWJ\ÿ€‹ôJ Œ⁄J Œÿ\⁄ 
-_J_X\⁄ 
-_Yù[ò›[€à\òŸ\J
-^€]OLœV◊NŸù[ò›[€àô^
-
-^⁄YäOOOMJ^€]›[\ÀúôYXŸJ
-KäOOòJÿã
-KÕN‹ô]\õàö[ö\⁄
-	‹\òŸ\IÀ›[	–⁄[[ôŸHÿ€‹ô\Œà	 ‹ÀõX\
-èOìX]úõ›[ô
-äJKöõ⁄[ä	»0≠»	 J…Àâ _[]\OV…–”’Sï	À	’êP“…À	–Së”IÀ	’ST…À	‘‘U	◊V⁄WK\ôŸ]⁄Yä\OOOI–”’Sï	 ^›\ôŸ]LLä”X]ôõ€‹äX]úò[ô€J
-JåÕäN€[Ÿ[
-	‘\òŸ\H0≠»”’Sï	À	—\›[X]HH›€›[ùâÀ	œ]à€\‹œHú›YŸHèè]èè]àYHô›»à›[OHù⁄Yåçç\Ÿ\‹^Nôõ^Ÿõ^]‹ò\ù‹ò\Ÿÿ\ç\⁄ù\›YûKX€€ù[ùòŸ[ù\é€X\ô⁄[éò]]»èâ –\úò^Kôúõ€J€[ô›ù\ôŸ]K
-
-OOâœH›[OHù⁄Yé⁄ZY⁄éÿòX⁄Ÿ‹õ›[ôàÿåŒXôôéÿõ‹ô\ã\òY]\ŒçL	Hèè⁄Oâ Köõ⁄[ä	… J…œŸ]èèYHò€›[ù[ùèìY[[‹ö^ôHH€›[ùôYõ‹ôH]\ÿ\X\úÀè‹è[ú]YHò[ú›Ÿ\àà€\‹œHö[ú]à\OHõù[Xô\àà\ÿXõYèù]€à€\‹œHúö[X\ûHàYHú›XõZ]à\ÿXõYì–“»Sèÿù]€èèŸ]èèŸ]èâ N€]›œI
-	»Ÿ›… K[ú]I
-	»ÿ[ú›Ÿ\â Kù]€èI
-	»‹›XõZ]	 N‹Ÿ][Y[›]
-
-
-OOû⁄Yä›Àö\–€€õôX›Y
-^Ÿ›Àúô[[›ôJ
-N…
-	»ÿ€›[ù[ù	 Kù^€€ù[ùI“›»X[ûH›»Y[›HŸYO…Œ⁄[ú]ô\ÿXõYYò[ŸNÿù]€ãô\ÿXõYYò[ŸN⁄[ú]ôõÿ›\ 
-__KML
-Nÿù]€ãõ€ò€X⁄œJ
-OOû⁄Yä[ú]ô\ÿXõY[ú]ùò[YOOOI… \ô]\õé‹Àú\⁄
-X]õX^
-Yù\ô€›–€‹ôKúÿ€‹ôQ\›[X]J\ôŸ][ú]ùò[YJJJN⁄J Œ€ô^
-
-__Y[ŸHYä\OOOI’êP“… ^›\ôŸ]SX]ôõ€‹äX]úò[ô€J
-Jå N€[Ÿ[
-	‘\òŸ\H0≠»êP“…À	—õ€›»H€›⁄[ô»[ôKâÀ	œ]à€\‹œHú›YŸHèè]èè]àYHõ[ô\»à›[OHôõ€ù\⁄^ôNåŒ€]\ã\‹X⁄[ôŒååÿ€€‹éàÿôôçéHè∏•„¯‡ 8•„¯‡ 8•„œŸ]èèï⁄\ôHYH[ŸH[ôœ‹è]à€\‹œHò⁄⁄XŸ\»èèù]€à]K[èHåèìQïÿù]€èèù]€à]K[èHåHèê—SïTèÿù]€èèù]€à]K[èHåàèîíQ“ÿù]€èèŸ]èèŸ]èèŸ]èâ N€]]P\úò^Kôúõ€J€[ô›åLK
-
-OOìX]ôõ€‹äX]úò[ô€J
-Jå JN‹]ú\⁄
-\ôŸ]
-N€]œL]è\Ÿ][ù\ùò[
-
-
-OOû€][I
-	»€[ô\… N⁄YäY[
-^ÿ€X\í[ù\ùò[
-]äN‹ô]\õü[][ôO\]⁄…\]õ[ô›NŸ[ö[õô\íSVÃKóKõX\
-èOâœ‹[à›[OHõ‹X⁄]Nâ  èOO[[ôO…ÃIŒâÀååâ J…Œ›^\⁄Y›Œâ  èOO[[ôO…ÃNÿôôçéIŒâ€õ€ôI J…»è∏•„œ‹‹[èâ Köõ⁄[ä	¯‡ 	 N⁄  Œ⁄Yäœè\]õ[ô›
-^ÿ€X\í[ù\ùò[
-]äNŸÿ›[Y[ùú]Y\ûTŸ[X›‹ê[
-	÷Ÿ]K[óI Kôõ‹ëXX⁄
-ùèOòùãõ€ò€X⁄œJ
-OOû‹Àú\⁄
-ù[Xô\äùãô]\Ÿ]õäOOO]\ôŸ]ÃLå
-N⁄J Œ€ô^
-
-_J__KÕL
-_Y[ŸHYä\OOOI–Së”I ^›\ôŸ]SX]ôõ€‹äX]úò[ô€J
-JåNJN€[Ÿ[
-	‘\òŸ\H0≠»Së”IÀ	”X]⁄H\ôŸ][ô€KâÀ	œ]à€\‹œHú›YŸHèè]èèœï\ôŸ]à	 ›\ôŸ]
-…¨⁄œè]àYHúôXYà€\‹œHúÿ€‹ôHèéL0¨Ÿ]èè[ú]YHò[ú›Ÿ\àà\OHúò[ôŸHàZ[èHåàX^HåNàò[YOHéLèèù]€à€\‹œHúö[X\ûHàYHú›XõZ]èì–“»Sèÿù]€èèŸ]èèŸ]èâ N…
-	»ÿ[ú›Ÿ\â Kõ€ö[ú]YOOâ
-	»‹ôXY	 Kù^€€ù[ùYKù\ôŸ]ùò[YJ…¨	Œ…
-	»‹›XõZ]	 Kõ€ò€X⁄œJ
-OOû‹Àú\⁄
-X]õX^
-Yù\ô€›–€‹ôKúÿ€‹ôP[ô€J\ôŸ]	
-	»ÿ[ú›Ÿ\â Kùò[YJJJN⁄J Œ€ô^
-
-__Y[ŸHYä\OOOI’ST… ^€]]\õèP\úò^Kôúõ€J€[ô›çK
-
-OOç
-”X]úò[ô€J
-Jç
-K\œV◊N€[Ÿ[
-	‘\òŸ\H0≠»ST…À	’ÿ]⁄õ›\à[Ÿ\À[à\Z\àö]KâÀ	œ]à€\‹œHú›YŸHèè]èè»YHòôX]èë—UëPQO⁄œèù]€àYHù\à€\‹œHúö[X\ûHà›[OHúY[ôŒåç\èïTÿù]€èèYHò€›[ùèì\›[à[ôô\X]H[ù\ùò[è‹èŸ]èèŸ]èâ N€]èLŸù[ò›[€àôX] 
-^⁄YäèOOM
-^…
-	»ÿôX]	 Kù^€€ù[ùI÷S’TàTìâŒ…
-	»›\	 Kõ€ò€X⁄œJ
-OOû›\Àú\⁄
-]Kõõ› 
-JN…
-	»ÿ€›[ù	 Kù^€€ù[ù]\Àõ[ô›
-…»»\…Œ⁄Yä\Àõ[ô›OOM
-^‹Àú\⁄
-Yù\ô€›–€‹ôKúÿ€‹ôU[\ ]\õãú€XŸJ K\ JN⁄J Œ€ô^
-
-__N‹ô]\õü\Ÿ][Y[›]
-
-
-OOû⁄YäI
-	»ÿôX]	 J\ô]\õé…
-	»ÿôX]	 Kù^€€ù[ùI¯•„…Œ‹Ÿ][Y[›]
-
-
-OOû…
-	»ÿôX]	 Kù^€€ù[ùI≠…Œ⁄ä ŒÿôX] 
-_KLÃ
-_KèOOLÃÕLú]\õñ⁄ãLWJ_XôX] 
-_Y[Ÿ^›\ôŸ]Lå
-”X]ôõ€‹äX]úò[ô€J
-JçåJN€[Ÿ[
-	‘\òŸ\H0≠»‘U	À	‘XŸHH€Y\à]Hô\]Y\›YúòX›[€ãâÀ	œ]à€\‹œHú›YŸHèè]èèœï\ôŸ]à	 ›\ôŸ]
-……O⁄œè[ú]YHò[ú›Ÿ\àà\OHúò[ôŸHàZ[èHåàX^HåLàò[YOHçLèè]àYHúôXYèçL	OŸ]èèù]€àYHú›XõZ]à€\‹œHúö[X\ûHèì–“»Sèÿù]€èèŸ]èèŸ]èâ N…
-	»ÿ[ú›Ÿ\â Kõ€ö[ú]YOOâ
-	»‹ôXY	 Kù^€€ù[ùYKù\ôŸ]ùò[YJ……IŒ…
-	»‹›XõZ]	 Kõ€ò€X⁄œJ
-OOû‹Àú\⁄
-X]õX^
-Yù\ô€›–€‹ôKúÿ€‹ôQúòX›[€ä\ôŸ]	
-	»ÿ[ú›Ÿ\â Kùò[YJJJN⁄J Œ€ô^
-
-___[ô^
-
-_Yù[ò›[€àXY€›[ù
-
-^€]èLN
-”X]ôõ€‹äX]úò[ô€J
-JåçJN€[Ÿ[
-	“XY€›[ù	À	–€›[ùHòXŸ\»ôYõ‹ôHH‹õ›Ÿ\ÿ\X\úÀâÀ	œ]à€\‹œHú›YŸHèè]èè]àYHò‹õ›Ÿà›[OHô\‹^Nô‹öYŸ‹öY][\]KX€€[[úŒúô\X]
-ÀÃ
-NŸÿ\éŸõ€ù\⁄^ôNåå‹ÿ€€‹éàŸôéÿXHèèŸ]èèYHö[ùèîÿÿ[à[ôY[[‹ö^ôHH‹õ›Ÿè‹è[ú]YHò[ú›Ÿ\àà€\‹œHö[ú]à\OHõù[Xô\ààXŸZ€\èHñ[›\à€›[ùà\ÿXõYèù]€à€\‹œHúö[X\ûHàYHú›XõZ]à\ÿXõYî’PìRUÿù]€èèŸ]èèŸ]èâ N€]‹õ›ŸI
-	»ÿ‹õ›Ÿ	 K[ùI
-	»⁄[ù	 K[ú›Ÿ\èI
-	»ÿ[ú›Ÿ\â K›XõZ]I
-	»‹›XõZ]	 Nÿ‹õ›Ÿö[õô\íSP\úò^Kôúõ€J€[ô›õüK
-
-OOâœ‹[è∏•‚O‹‹[èâ Köõ⁄[ä	… N‹Ÿ][Y[›]
-
-
-OOû⁄Yä‹õ›Ÿö\–€€õôX›Y
-^ÿ‹õ›Ÿö[õô\íSI…Œ⁄[ùù^€€ù[ùI“›»X[ûHòXŸ\»Y[›HŸYO…Œÿ[ú›Ÿ\ãô\ÿXõYYò[ŸN‹›XõZ]ô\ÿXõYYò[ŸNÿ[ú›Ÿ\ãôõÿ›\ 
-__KçL
-N‹›XõZ]õ€ò€X⁄œJ
-OOû⁄Yä[ú›Ÿ\ãô\ÿXõY[ú›Ÿ\ãùò[YOOOI… \ô]\õéŸö[ö\⁄
-	⁄XY€›[ù	ÀYù\ô€›–€‹ôKúÿ€‹ôQ\›[X]Jã[ú›Ÿ\ãùò[YJK	’\ôHŸ\ôH	 €ä…»òXŸ\»[àH‹õ›Ÿâ __Yù[ò›[€àŸ€‹ 
-^¬à€€ú›X\ö‹œV¬à€ò[YNâ”öZŸIÀò] ›
-^ÿ›òôY⁄[î]
-
-Nÿ›õ[›ôU MN
-Nÿ›ú]XYò]X–›\ùôU ÀÀN
-Nÿ›ú]XYò]X–›\ùôU åKNÕÕäNÿ›ú]XYò]X–›\ùôU åãMN
-Nÿ›ò€‹ŸT]
-
-Nÿ›ôö[
-
-__Kà€ò[YNâ–\IÀò] ›
-^ÿ›òôY⁄[î]
-
-Nÿ›õ[›ôU LÕJNÿ›òô^öY\ê›\ùôU ŒKåKåKéKå
-Nÿ›òô^öY\ê›\ùôU NçÀÃKÀãŒ
-Nÿ›òô^öY\ê›\ùôU ÕKLãÕKNŒ
-Nÿ›òô^öY\ê›\ùôU ÃÀãçK Nÿ›òô^öY\ê›\ùôU ŒéKåKåãLÕJNÿ›ò€‹ŸT]
-
-Nÿ›ôö[
-
-Nÿ›òôY⁄[î]
-
-Nÿ›ô[\ŸJNåKLãKKççKX]îJåäNÿ›ôö[
-
-__Kà€ò[YNâ’\ôŸ]	Àò] ›
-^÷ÃŒçKLóKôõ‹ëXX⁄
-èOûÿ›òôY⁄[î]
-
-Nÿ›ò\ò LLãX]îJåäNÿ›ú›õ⁄ŸJ
-_J__Kà€ò[YNâ‘⁄[	Àò] ›
-^ÿ›òôY⁄[î]
-
-Nÿ›õ[›ôU LãŒ
-Nÿ›ú]XYò]X–›\ùôU LãåãLå
-Nÿ›ú]XYò]X–›\ùôU åãŒ
-Nÿ›ò€‹ŸT]
-
-Nÿ›ú›õ⁄ŸJ
-N÷ÃåÕKLçKKôõ‹ëXX⁄
-Oûÿ›òôY⁄[î]
-
-Nÿ›õ[›ôU LåäNÿ›õ[ôU Õ Nÿ›ú›õ⁄ŸJ
-_JNÿ›òôY⁄[î]
-
-Nÿ›õ[›ôU LãŒ
-Nÿ›õ[ôU Œ
-Nÿ›ú›õ⁄ŸJ
-__Kà€ò[YNâ–YY\…Àò] ›
-^÷÷ÃNÃåãÃKÕãÃåãÃKÕçãÃåãÃWKôõ‹ëXX⁄
-
-ﬁKÀJOOûÿ›òôY⁄[î]
-
-Nÿ›õ[›ôU JNÿ›õ[ôU 
-›ÀKZ
-Nÿ›õ[ôU 
-› ŒKKZ
-Nÿ›õ[ôU 
-ŒKJNÿ›ò€‹ŸT]
-
-Nÿ›ôö[
-
-_J__Kà€ò[YNâ‘›\òùX⁄‹…Àò] ›
-^ÿ›òôY⁄[î]
-
-Nÿ›ò\ò LLŒX]îJåäNÿ›ú›õ⁄ŸJ
-Nÿ›òôY⁄[î]
-
-NŸõ‹ä]OL⁄OL⁄J  ^€]OKSX]îKÃä⁄JìX]îKÕKèZILèÃLåçKML
-”X]ò€‹ JJúãOML
-”X]ú⁄[äJJúé⁄Oÿ›õ[ôU JNò›õ[›ôU J_X›ò€‹ŸT]
-
-Nÿ›ôö[
-
-__BàN¬à€€ú›X\öœ[X\ö‹÷”X]ôõ€‹äX]úò[ô€J
-JõX\ö‹Àõ[ô›
-WN¬à]À›õ⁄Ÿ\œV◊KX›]ôO[ù[\ò\Ÿ\èYò[ŸKôXYOYò[ŸK[Y\è[ù[[ù\ùò[[ù[¬à[Ÿ[
-	—ò]»Ÿ€‹»úõ€HY[[‹ûIÀ	”Y[[‹ö^ôHHX\öÀ[àò]»]Yù\à]\ÿ\X\úÀâÀ	œ]à€\‹œHú›YŸHèè]à€\‹œHú›YŸZ[õô\àèèàYHõŸ€”ò[YHèèÿèèÿ[ùò\»YHò»à€\‹œHòÿ[ùò\»èèÿÿ[ùò\œèYHõŸ€“[ùèî›YHHŸ€»õ‹àŸX€€ôÀè‹èù]€àYHù[ô»à€\‹œHúŸX€€ô\ûHà\ÿXõYïSëœÿù]€èàù]€àYHô\ò\ŸHà€\‹œHúŸX€€ô\ûHà\ÿXõYëTêT—Tà—ëèÿù]€èàù]€àYHò€X\àà€\‹œHúŸX€€ô\ûHà\ÿXõYê”PTèÿù]€èàù]€àYHúô]ôX[à€\‹œHúö[X\ûHà\ÿXõYî–”‘ëHêU“Sëœÿù]€èèŸ]èèŸ]èâÀ
-
-OOûÿ€X\ï[Y[›]
-[Y\äNÿ€X\í[ù\ùò[
-[ù\ùò[
-_JN¬àœI
-	»ÿ… NﬁXÀôŸ]€€ù^
-	Ãô	 NÿÀù⁄YXÀò€Y[ù⁄YÿÀöZY⁄Låå¬à€€ú›ò[YOI
-	»€Ÿ€”ò[YI K[ùI
-	»€Ÿ€“[ù	 K[ôœI
-	»›[ô… K\ò\ŸOI
-	»Ÿ\ò\ŸI K€X\èI
-	»ÿ€X\â K›XõZ]I
-	»‹ô]ôX[	 N¬àò[YKù^€€ù[ù[X\öÀõò[YN¬àù[ò›[€àZ[ùX\ö ›
-^ÿ›úÿ]ôJ
-Nÿ›ùò[ú€]JÀù⁄YÃãÀöZY⁄ÃäN€]ÿÿ[OSX]õZ[äÀù⁄YÀöZY⁄
-JãçŒÃLÿ›úÿÿ[Jÿÿ[Kÿÿ[JNÿ›õ[ôU⁄YMNÿ›õ[ôPÿ\I‹õ›[ô	Œÿ›õ[ôRõ⁄[èI‹õ›[ô	Œÿ›ú›õ⁄ŸT›[OI»ÿôôçéIŒÿ›ôö[›[OI»ÿôôçéIŒ€X\öÀôò] ›
-Nÿ›úô\›‹ôJ
-_Bàù[ò›[€àZ[ù›õ⁄Ÿ\ 
-^ﬁò€X\îôX›
-Àù⁄YÀöZY⁄
-NŸõ‹ä€€ú››õ⁄ŸHŸà›õ⁄Ÿ\ ^⁄Yä\›õ⁄ŸKú⁄[ùÀõ[ô›
-X€€ù[ùYNﬁúÿ]ôJ
-Nﬁô€ÿò[€€\‹⁄]S‹\ò][€è\›õ⁄ŸKô\ò\ŸO…Ÿ\›[ò][€ã[›]	Œâ‹€›\òŸK[›ô\âŒﬁú›õ⁄ŸT›[OI»ÿôôçéIŒﬁõ[ôU⁄Y\›õ⁄ŸKô\ò\ŸOÃåçNﬁõ[ôPÿ\I‹õ›[ô	Œﬁõ[ôRõ⁄[èI‹õ›[ô	ŒﬁòôY⁄[î]
-
-Nﬁõ[›ôU ›õ⁄ŸKú⁄[ù÷ÃVÃK›õ⁄ŸKú⁄[ù÷ÃVÃWJNŸõ‹ä]OLN⁄O›õ⁄ŸKú⁄[ùÀõ[ô›⁄J  ^õ[ôU ›õ⁄ŸKú⁄[ù÷⁄WVÃK›õ⁄ŸKú⁄[ù÷⁄WVÃWJN⁄Yä›õ⁄ŸKú⁄[ùÀõ[ô›OOLJ^õ[ôU ›õ⁄ŸKú⁄[ù÷ÃVÃJÀåK›õ⁄ŸKú⁄[ù÷ÃVÃWJÀåJNﬁú›õ⁄ŸJ
-Nﬁúô\›‹ôJ
-__Bàù[ò›[€àö[ö\⁄›YJ
-^⁄YäXÀö\–€€õôX›YôXYJ\ô]\õéÿ€X\í[ù\ùò[
-[ù\ùò[
-Nﬁò€X\îôX›
-Àù⁄YÀöZY⁄
-N€ò[YKù^€€ù[ùI…Œ⁄[ùù^€€ù[ùI÷[›\à\õãàôX‹ôX]HHX\öÀ[àÿ€‹ôH[›\àò]⁄[ôÀâŒ‹ôXYO]ùYN÷›[ôÀ\ò\ŸK€X\ã›XõZ]Kôõ‹ëXX⁄
-èOòãô\ÿXõYYò[ŸJ_Bàù[ò›[€àX\⁄ €›\òŸK⁄YZY⁄
-^ÿ€€ú›€X[Yÿ›[Y[ùò‹ôX]Q[[Y[ù
-	ÿÿ[ùò\… N‹€X[ù⁄Y]⁄Y‹€X[öZY⁄ZZY⁄ÿ€€ú››\€X[ôŸ]€€ù^
-	Ãô	 Nÿ›ôò]“[XYŸJ€›\òŸK⁄YZY⁄
-Nÿ€€ú›^[œX›ôŸ][XYŸQ]J⁄YZY⁄
-Kô]Nÿ€€ú››][ô]»Z[ù\úò^J⁄Y
-öZY⁄
-NŸõ‹ä]OL⁄O›]õ[ô›⁄J  [›]⁄WO\^[÷⁄Jç
-Ã◊OåÕèÃNå‹ô]\õà›]Bàù[ò›[€àôXÿ[ÿ€‹ôJ
-^ÿ€€ú›€€œNõ›‹œM\ôŸ]Yÿ›[Y[ùò‹ôX]Q[[Y[ù
-	ÿÿ[ùò\… N›\ôŸ]ù⁄YXÀù⁄Y›\ôŸ]öZY⁄XÀöZY⁄‹Z[ùX\ö \ôŸ]ôŸ]€€ù^
-	Ãô	 JN‹ô]\õàYù\ô€›–€‹ôKúÿ€‹ôUòXŸSX]⁄
-X\⁄ \ôŸ]€€Àõ›‹ KX\⁄ À€€Àõ›‹ Kä_BàZ[ùX\ö 
-N€]ô[XZ[ö[ôœM⁄[ù\ùò[\Ÿ][ù\ùò[
-
-
-OOû‹ô[XZ[ö[ôÀKN⁄Yä[ùö\–€€õôX›Y
-Z[ùù^€€ù[ùI‘›YHHŸ€¯†)à	 ‹ô[XZ[ö[ô …‹…Œ⁄Yäô[XZ[ö[ôœL
-Yö[ö\⁄›YJ
-_KL
-N›[Y\è\Ÿ][Y[›]
-ö[ö\⁄›YK
-N¬àÀõ€ú⁄[ù\ô›€èYOOû⁄Yä\ôXYJ\ô]\õéÿX›]ôO^Ÿ\ò\ŸNô\ò\Ÿ\ã⁄[ùŒñ÷ŸKõŸôúŸ]KõŸôúŸ]WW_N‹›õ⁄Ÿ\Àú\⁄
-X›]ôJNÿÀúŸ]⁄[ù\êÿ\\ôJKú⁄[ù\íY
-N‹Z[ù›õ⁄Ÿ\ 
-_NÿÀõ€ú⁄[ù\õ[›ôOYOOû⁄YäôXYIâòX›]ôJ^ÿX›]ôKú⁄[ùÀú\⁄
-ŸKõŸôúŸ]KõŸôúŸ]WJN‹Z[ù›õ⁄Ÿ\ 
-__NÿÀõ€ú⁄[ù\ù\J
-OOûÿX›]ôO[ù[NÿÀõ€ú⁄[ù\òÿ[òŸ[J
-OOûÿX›]ôO[ù[N¬à[ôÀõ€ò€X⁄œJ
-OOû‹›õ⁄Ÿ\Àú‹
-
-N‹Z[ù›õ⁄Ÿ\ 
-_NŸ\ò\ŸKõ€ò€X⁄œJ
-OOûŸ\ò\Ÿ\èHY\ò\Ÿ\éŸ\ò\ŸKù^€€ù[ùY\ò\Ÿ\è…—TêT—Tà”âŒâ—TêT—Tà—ëâﬂNÿ€X\ãõ€ò€X⁄œJ
-OOû‹›õ⁄Ÿ\œV◊N‹Z[ù›õ⁄Ÿ\ 
-_N‹›XõZ]õ€ò€X⁄œJ
-OOû⁄Yä\ôXYJ\ô]\õéŸö[ö\⁄
-	€Ÿ€‹…ÀôXÿ[ÿ€‹ôJ
-K	‘ôYô\ô[òŸHŸ€Œà	 €X\öÀõò[YJ…Ààÿ€‹ôH€€\\ô\»›»€‹Ÿ[H[›\àò]⁄[ô»õ€›‹»HX\ö¯†&\»⁄\Kâ _N¬üBôù[ò›[€à€€ù^ 
-^€]è^€ÿŸX[éñ…‹ŸXIÀ	‹ôYYâÀ	›ÿ]ôIÀ	ÿ€‹ò[	À	›YIÀ	›⁄[IÀ	ÿôXX⁄	À	Ÿö\⁄	À	›ÿ]\âÀ	⁄\€[ô	À	‹ÿ[	À	‹⁄\	◊Kÿ\ô[éñ…Ÿõ›Ÿ\âÀ	‹[ù	À	‹€⁄[	À	‹õ‹ŸIÀ	›ôYIÀ	€XYâÀ	‹ŸYY	À	Ÿ‹ôY[âÀ	Ÿ‹ò\‹…À	‹][	À	‹õ€›	À	ÿôYI◊K‹òö]ñ…‹[ô]	À	€[€€âÀ	‹›\âÀ	‹‹XŸIÀ	Ÿ‹ò]ö]IÀ	‹›[âÀ	ÿ€€Y]	À	‹ÿ][]IÀ	ŸX\ù	À	€X\ú…À	‹õÿ⁄Ÿ]	À	Ÿÿ[^I◊K]\⁄XŒñ…‹€€ô…À	€Y[ŸIÀ	‹ö]IÀ	‹€›[ô	À	‹X[õ…À	Ÿ›Z]\âÀ	Ÿù[IÀ	€õ›IÀ	›õ⁄XŸIÀ	ÿò[ô	À	ÿôX]	À	›[ôI◊KúôXYñ…Ÿõ›\âÀ	Ÿ›Y⁄	À	ﬁYX\›	À	ÿòZŸIÀ	€ÿYâÀ	ÿù]\âÀ	›ÿ\›	À	›⁄X]	À	€›ô[âÀ	ÿ‹ù\›	À	Ÿ‹òZ[âÀ	ÿòZŸ\ûI◊_KŸ^\œSÿöôX›öŸ^\ äK\ôŸ]ZŸ^\÷”X]ôõ€‹äX]úò[ô€J
-JçJWK›Y\‹Ÿ\œV◊N€[Ÿ[
-	–€€ù^…À	—ö[ôH€‹ôûHYX[ö[ôÀàŸôõ[ôHY][€à\Ÿ\»H›\ò]YŸ[X[ùX»\›õ›Hù[[ô›XYŸH[Ÿ[âÀ	œ]à€\‹œHú›YŸHèè]èè]àYHò[ú›Ÿ\àà€\‹œHúÿ€‹ôHèèœœœœœŸ]èèí[ùàH€€[[€à€‹ô[àHúõÿYÿ]Y€‹ûKè‹è[ú]YHù€‹ôà€\‹œHö[ú]àXŸZ€\èHï\HH›Y\‹»èèù]€àYHô›Y\‹»à€\‹œHúö[X\ûHèë’QT‘œÿù]€èèù]€àYHô⁄]ôHà€\‹œHúŸX€€ô\ûHèë“UëHTÿù]€èè]àYHõ\›èèŸ]èèŸ]èèŸ]èâ NŸù[ò›[€à›XõZ]
-
-^€]œI
-	»›€‹ô	 Kùò[YKùö[J
-Kù”›Ÿ\êÿ\ŸJ
-Kúô\XŸJ÷◊òK^ãWKŸÀ	… Kú€XŸJç
-N⁄Yä]ﬂ›Y\‹Ÿ\Àö[ò€Y\  J\ô]\õéŸ›Y\‹Ÿ\Àù[ú⁄Yù
- N…
-	»€\›	 Kö[õô\íSY›Y\‹Ÿ\ÀõX\
-œOâœâ Ÿ\ÿÿ\R[
- J…¯‡ …  œOO]\ôŸ]…ÃH8†%”‘îëP’	Œêñ›\ôŸ]Kö[ò€Y\  OÃä–ñ›\ôŸ]Kö[ô^Ÿä JééNNJJ…œ‹â Köõ⁄[ä	… N⁄YäœOO]\ôŸ]
-^…
-	»ÿ[ú›Ÿ\â Kù^€€ù[ù]\ôŸ]ù’\\êÿ\ŸJ
-NŸö[ö\⁄
-	ÿ€€ù^…ÀYù\ô€›–€‹ôKúÿ€‹ôP€€ù^ ›Y\‹Ÿ\Àõ[ô›
-K	’HY[à€‹ôÿ\»	 ›\ôŸ]
-…Àâ __I
-	»Ÿ›Y\‹… Kõ€ò€X⁄œ\›XõZ]…
-	»›€‹ô	 Kõ€öŸ^Y›€èYOOû⁄YäKöŸ^OOOI—[ù\â \›XõZ]
-
-_N…
-	»Ÿ⁄]ôI Kõ€ò€X⁄œJ
-OOû⁄Yä	
-	»ÿ[ú›Ÿ\â JI
-	»ÿ[ú›Ÿ\â Kù^€€ù[ù]\ôŸ]ù’\\êÿ\ŸJ
-NŸö[ö\⁄
-	ÿ€€ù^…À	’H[ú›Ÿ\àÿ\»	 ›\ôŸ]
-…Àâ __Yù[ò›[€àXÿ€›[ù
-
-^€]è\õ€\
-	‘^Y\àò[YH
-ÿÿ[[€õHõŸö[N»õ»\‹›€‹ô‹àXÿ€›[ùòX⁄Ÿ[ô
-Nâ N⁄Yäââõãùö[J
-Kõ[ô›åJ^›\Ÿ\è[ãùö[J
-Kúô\XŸJ◊ ÀŸÀ	»	 Kú€XŸJç
-N€ÿÿ[›‹òYŸKúŸ]][J	›\Ÿ\âÀ\Ÿ\äN‹ô[ô\ä
-__\ô[ô\ä
-_JJ
-N
+(()=>{const G=[['circle','Perfect Circle','‚óØ','PRECISION','Draw a smooth circle and measure radial consistency.'],['krillion','Krillion: The Daily Dive','‚åÅ','TRIVIA','Seven timed trivia questions.'],['perceptle','Perceptle','‚óâ','PERCEPTION','Five visual and estimation challenges.'],['headcount','Head Count','‚ñ¶','VISUAL MEMORY','Count a crowd before it fades.'],['logos','Draw Logos From Memory','‚ú≥','RECALL','Study a mark, then redraw it from memory.'],['contexto','Contexto','‚åï','WORD SENSE','Find the secret word using semantic clues.']].map(x=>({id:x[0],name:x[1],icon:x[2],tag:x[3],desc:x[4]}));function readJson(key,fallback){try{const value=JSON.parse(localStorage.getItem(key));return value??fallback}catch{return fallback}}const storedScores=readJson('scores',{});let S={};G.forEach(g=>{const value=Number(storedScores?.[g.id]);if(Number.isFinite(value)&&value>=0&&value<=100)S[g.id]=Math.round(value)});const storedHistory=readJson('history',[]);let H=Array.isArray(storedHistory)?storedHistory.slice(-300).flatMap(item=>{const game=G.find(g=>g.name===item?.name);const score=Number(item?.score);const date=Date.parse(item?.date);return game&&Number.isFinite(score)&&score>=0&&score<=100&&Number.isFinite(date)?[{name:game.name,score:Math.round(score),date:new Date(date).toISOString()}]:[]}):[],user=String(localStorage.getItem('user')||'Guest player').slice(0,24),page='Overview',modalCleanup=null;const $=q=>document.querySelector(q);function escapeHtml(value){return String(value).replace(/[&<>"']/g,char=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]))}function save(){H=H.slice(-300);try{localStorage.setItem('scores',JSON.stringify(S));localStorage.setItem('history',JSON.stringify(H))}catch(error){console.error('Could not save Afterglow progress:',error)}}function completed(){return G.filter(g=>S[g.id]!=null).length}function percentage(){return AfterglowCore.gamerPercentage(S,G.map(g=>g.id))}function leaders(){if(percentage()===null)return '<div class="panel"><h3>Strongest and weakest</h3><p>Complete all six games to unlock your collection comparison.</p></div>';let ranked=G.slice().sort((a,b)=>S[b.id]-S[a.id]);return '<div class="panel"><h3>Strongest and weakest</h3><p>Strongest: <b>'+ranked[0].name+'</b> ¬∑ '+S[ranked[0].id]+'%</p><p>Focus next: <b>'+ranked[5].name+'</b> ¬∑ '+S[ranked[5].id]+'%</p></div>'}function cards(){return G.map(g=>'<article class="card" data-g="'+g.id+'" style="--c:#bdff69"><span class="icon">'+g.icon+'</span><span class="tag">'+g.tag+'</span><h3>'+g.name+'</h3><p>'+g.desc+'</p><footer><span>‚ó∑ 2‚Äì4 MIN</span><span>'+(S[g.id]!=null?'BEST '+S[g.id]+'%':'PLAY ROUND ‚Üí')+'</span></footer></article>').join('')}function render(){ $('#player').textContent=user;$('#crumb').textContent=page.toUpperCase();let a=$('#app');if(page==='Overview'){a.innerHTML='<section class="hero"><div class="eyebrow">THE AFTER HOURS START HERE</div><h1>Six ways to test<br>your <em>instincts.</em></h1><p>A little precision. A little perception, a whole lot of ‚Äúone more round.‚Äù Welcome to your new favorite corner of the arcade.</p><div class="actions"><button class="primary" data-page="Game library">EXPLORE THE GAMES ‚Üí</button><button class="secondary" data-page="My profile">YOUR PROFILE ‚Üó</button></div><p class="small">‚ú¶ SIX CHALLENGES„ÄÄ ‚óâ DESKTOP EDITION„ÄÄ v1.0.0</p></section><div class="stats"><div class="stat"><small>GAMES COMPLETED</small><b>'+completed()+' / 6</b></div><div class="stat"><small>GAMER PERCENTAGE</small><b>'+(percentage()==null?'‚Äî':percentage()+'%')+'</b></div><div class="stat"><small>ROUNDS PLAYED</small><b>'+H.length+'</b></div><div class="stat"><small>PLAYER STATUS</small><b>'+(user==='Guest player'?'GUEST':'LOCAL PROFILE')+'</b></div></div><div class="section"><div><div class="eyebrow">PICK YOUR MOOD</div><h2>The game floor</h2></div><button class="secondary" data-page="Game library">VIEW ALL SIX</button></div><div class="grid">'+cards()+'</div><div class="panel progress"><div class="ring" style="--p:'+completed()/6*100+'%;--target:'+completed()/6*100+'%">'+Math.round(completed()/6*100)+'%</div><div><b>'+completed()+' of 6 games complete</b><p>Finish every game to calculate your Gamer Percentage. Each counts equally; best score is used.</p><div class="bar"><i style="width:'+completed()/6*100+'%"></i></div></div></div><div class="panel progress"><div class="ring percentage-ring" style="--p:'+(percentage()===null?0:percentage())+'%;--target:'+(percentage()===null?0:percentage())+'%">'+(percentage()===null?'‚Äî':percentage()+'%')+'</div><div><b>Gamer Percentage</b><p>'+(percentage()===null?'Complete all six games. Your best score in each one counts equally.':'Each game contributes one equal share of your collection score.')+'</p></div></div>'}else if(page==='Game library'){a.innerHTML='<div class="eyebrow">THE COLLECTION</div><h1>Choose your challenge.</h1><p class="lead">Six short games, six instincts. Progress persists on this device.</p><div class="grid">'+cards()+'</div>'}else if(page==='My profile'){a.innerHTML='<div class="eyebrow">PLAYER CARD</div><h1>'+escapeHtml(user)+'</h1><p class="lead">Guest progress is local to this computer. Secure cloud accounts are not configured.</p><div class="panel"><h3>Best scores</h3><table class="table">'+G.map(g=>'<tr><td>'+g.icon+'„ÄÄ'+g.name+'</td><td>'+(S[g.id]==null?'‚Äî':S[g.id]+'%')+'</td></tr>').join('')+'<tr><td><b>Gamer Percentage</b></td><td>'+(percentage()==null?'‚Äî':percentage()+'%')+'</td></tr></table></div>'+leaders()+'<div class="panel"><h3>Recent rounds</h3>'+(H.length?H.slice(-8).reverse().map(x=>'<p>'+x.name+' ¬∑ '+new Date(x.date).toLocaleDateString()+' ¬∑ '+x.score+'%</p>').join(''):'<p>No rounds played yet.</p>')+'</div><button class="primary" id="account">SET LOCAL DISPLAY NAME</button><p class="small">LOCAL ONLY ¬∑ SECURE ONLINE ACCOUNTS ARE NOT CONFIGURED</p>'}else{a.innerHTML='<div class="eyebrow">PREFERENCES</div><h1>Make it yours.</h1><div class="panel"><p>Progress storage: local to this computer.</p><button class="secondary" id="reset">RESET LOCAL SCORES</button><p>Version 1.0.0 ¬∑ Afterglow Arcade desktop edition</p></div>'}a.querySelectorAll('[data-page]').forEach(b=>b.onclick=()=>go(b.dataset.page));a.querySelectorAll('[data-g]').forEach(b=>b.onclick=()=>start(b.dataset.g));if($('#reset'))$('#reset').onclick=()=>{if(confirm('Clear local scores?')){S={};H=[];save();render()}};if($('#account'))$('#account').onclick=account}document.addEventListener('keydown',e=>{if(e.key==='Escape'&&$('.modal'))$('.close')?.click()});document.querySelector('nav').onclick=e=>{let b=e.target.closest('[data-page]');if(b)go(b.dataset.page)};function go(v){page=v;document.querySelectorAll('nav button').forEach(b=>b.classList.toggle('active',b.dataset.page===v));render()}function modal(title,desc,html,cleanup=null){modalCleanup=cleanup;$('#modal').innerHTML='<div class="modalback"><div class="modal"><div class="modalhead"><div><div class="eyebrow">AFTERGLOW ARCADE</div><h2>'+title+'</h2><p>'+desc+'</p></div><button class="close" aria-label="Close game">√ó</button></div><div id="body">'+html+'</div></div></div>';$('.close').focus();$('.close').onclick=()=>{modalCleanup?.();modalCleanup=null;$('#modal').innerHTML=''}}function finish(id,val,detail=''){modalCleanup?.();modalCleanup=null;val=Math.max(0,Math.min(100,Math.round(Number.isFinite(Number(val))?Number(val):0)));S[id]=Math.max(S[id]||0,val);H.push({name:G.find(g=>g.id===id).name,score:val,date:new Date().toISOString()});save();modal('Round complete','Your best score is saved.','<div class="stage"><div><div class="eyebrow">ROUND SCORE</div><div class="score">'+val+' / 100</div><p>Personal best: '+S[id]+'%</p>'+(detail?'<p>'+escapeHtml(detail)+'</p>':'')+'<div class="actions"><button class="secondary" id="back">BACK TO THE FLOOR</button><button class="primary" id="replay">PLAY THIS GAME AGAIN</button></div></div></div>');$('#back').onclick=()=>{$('#modal').innerHTML='';render()};$('#replay').onclick=()=>{$('#modal').innerHTML='';render();start(id)}}function start(id){({circle:circle,krillion:krillion,perceptle:perceptle,headcount:headcount,logos:logos,contexto:contexto})[id]()}function circle(){modal('Perfect Circle','Draw one continuous circle.','<div class="stage"><div class="stageinner"><canvas class="canvas" id="c"></canvas><p id="circleHint">Draw with mouse. Clear and retry or score.</p><button class="secondary" id="clear">CLEAR</button> <button class="primary" id="submit">SCORE</button></div></div>');let c=$('#c'),x=c.getContext('2d');c.width=c.clientWidth;c.height=220;let pts=[],down=false;c.onpointerdown=e=>{down=true;x.beginPath();x.moveTo(e.offsetX,e.offsetY);pts.push([e.offsetX,e.offsetY]);c.setPointerCapture(e.pointerId)};c.onpointermove=e=>{if(down){pts.push([e.offsetX,e.offsetY]);x.strokeStyle='#bdff69';x.lineWidth=3;x.lineTo(e.offsetX,e.offsetY);x.stroke()}};c.onpointerup=()=>down=false;$('#clear').onclick=()=>{x.clearRect(0,0,c.width,c.height);pts=[]};$('#submit').onclick=()=>{let result=AfterglowCore.scoreCircle(pts);if(result.invalid){$('#circleHint').textContent='Draw more of a circle before scoring.';return}finish('circle',result.score,'Score reflects radial consistency, closure, and stroke coverage.')}}function krillion(){let bank=[['Largest planet?','Jupiter',['Earth','Jupiter','Mars','Venus']],['Which animal has three hearts?','Octopus',['Shark','Octopus','Crab','Dolphin']],['Most common atmospheric gas?','Nitrogen',['Oxygen','Nitrogen','Argon','Hydrogen']],['Atomic number 79?','Gold',['Silver','Gold','Copper','Iron']],['Smallest prime?','2',['1','2','3','0']],['Liquid metal near room temperature?','Mercury',['Iron','Mercury','Copper','Zinc']],['Deepest ocean?','Pacific',['Arctic','Atlantic','Pacific','Indian']],['Largest human organ?','Skin',['Liver','Skin','Heart','Lung']],['Plants absorb which gas?','Carbon dioxide',['Oxygen','Carbon dioxide','Nitrogen','Helium']],['Only mammal capable of flight?','Bat',['Bat','Flying squirrel','Owl','Colugo']],['Capital of New Zealand?','Wellington',['Auckland','Wellington','Christchurch','Hamilton']]],q=bank.slice(),i=0,score=0,t;for(let j=q.length-1;j>0;j--){let k=Math.floor(Math.random()*(j+1));[q[j],q[k]]=[q[k],q[j]]}q=q.slice(0,7);function ask(){if(i===7)return finish('krillion',AfterglowCore.scoreKrillion(score,7),score+' correct answers out of 7.');modal('Krillion: The Daily Dive','Question '+(i+1)+' of 7 ¬∑ 25 seconds','<div class="stage"><div><div class="score" id="timer">25</div><h3>'+q[i][0]+'</h3><div class="choices">'+q[i][2].map(x=>'<button>'+x+'</button>').join('')+'</div><p>Each correct answer counts equally. Answer before time runs out.</p></div></div>',()=>clearInterval(t));let n=25;t=setInterval(()=>{n--;if($('#timer'))$('#timer').textContent=n;if(n<=0){clearInterval(t);i++;ask()}},1000);document.querySelectorAll('.choices button').forEach(b=>b.onclick=()=>{clearInterval(t);if(b.textContent===q[i][1])score++;i++;ask()})}ask()}function perceptle(){let i=0,s=[];function next(){if(i===5){let total=s.reduce((a,b)=>a+b,0)/5;return finish('perceptle',total,'Challenge scores: '+s.map(v=>Math.round(v)).join(' ¬∑ ')+'.')}let type=['COUNT','TRACK','ANGLE','TEMPO','SPLIT'][i],target;if(type==='COUNT'){target=12+Math.floor(Math.random()*36);modal('Perceptle ¬∑ COUNT','Estimate the dot count.','<div class="stage"><div><div id="dots" style="width:265px;display:flex;flex-wrap:wrap;gap:5px;justify-content:center;margin:auto">'+Array.from({length:target},()=>'<i style="width:8px;height:8px;background:#b39bff;border-radius:50%"></i>').join('')+'</div><p id="countHint">Memorize the count before it disappears.</p><input id="answer" class="input" type="number" disabled><button class="primary" id="submit" disabled>LOCK IN</button></div></div>');let dots=$('#dots'),input=$('#answer'),button=$('#submit');setTimeout(()=>{if(dots.isConnected){dots.remove();$('#countHint').textContent='How many dots did you see?';input.disabled=false;button.disabled=false;input.focus()}},1500);button.onclick=()=>{if(input.disabled||input.value==='')return;s.push(Math.max(0,AfterglowCore.scoreEstimate(target,input.value)));i++;next()}}else if(type==='TRACK'){target=Math.floor(Math.random()*3);modal('Perceptle ¬∑ TRACK','Follow the glowing lane.','<div class="stage"><div><div id="lanes" style="font-size:38px;letter-spacing:20px;color:#bdff69">‚óè„ÄÄ‚óè„ÄÄ‚óè</div><p>Where did the pulse end?</p><div class="choices"><button data-n="0">LEFT</button><button data-n="1">CENTER</button><button data-n="2">RIGHT</button></div></div></div>');let path=Array.from({length:10},()=>Math.floor(Math.random()*3));path.push(target);let k=0,iv=setInterval(()=>{let el=$('#lanes');if(!el){clearInterval(iv);return}let lane=path[k%path.length];el.innerHTML=[0,1,2].map(n=>'<span style="opacity:'+(n===lane?'1':'.22')+';text-shadow:'+(n===lane?'0 0 18px #bdff69':'none')+'">‚óè</span>').join('„ÄÄ');k++;if(k>=path.length){clearInterval(iv);document.querySelectorAll('[data-n]').forEach(btn=>btn.onclick=()=>{s.push(Number(btn.dataset.n)===target?100:0);i++;next()})}},350)}else if(type==='ANGLE'){target=Math.floor(Math.random()*181);modal('Perceptle ¬∑ ANGLE','Match the target angle.','<div class="stage"><div><h3>Target: '+target+'¬∞</h3><div id="read" class="score">90¬∞</div><input id="answer" type="range" min="0" max="180" value="90"><button class="primary" id="submit">LOCK IN</button></div></div>');$('#answer').oninput=e=>$('#read').textContent=e.target.value+'¬∞';$('#submit').onclick=()=>{s.push(Math.max(0,AfterglowCore.scoreAngle(target,$('#answer').value)));i++;next()}}else if(type==='TEMPO'){let pattern=Array.from({length:4},()=>400+Math.random()*400),taps=[];modal('Perceptle ¬∑ TEMPO','Watch four pulses, then tap their rhythm.','<div class="stage"><div><h3 id="beat">GET READY</h3><button id="tap" class="primary" style="padding:25px 48px">TAP</button><p id="count">Listen and repeat the interval.</p></div></div>');let j=0;function beats(){if(j===4){$('#beat').textContent='YOUR TURN';$('#tap').onclick=()=>{taps.push(Date.now());$('#count').textContent=taps.length+' / 4 taps';if(taps.length===4){s.push(AfterglowCore.scoreTempo(pattern.slice(0,3),taps));i++;next()}};return}setTimeout(()=>{if(!$('#beat'))return;$('#beat').textContent='‚óè';setTimeout(()=>{$('#beat').textContent='¬∑';j++;beats()},130)},j===0?350:pattern[j-1])}beats()}else{target=20+Math.floor(Math.random()*61);modal('Perceptle ¬∑ SPLIT','Place the slider at the requested fraction.','<div class="stage"><div><h3>Target: '+target+'%</h3><input id="answer" type="range" min="0" max="100" value="50"><div id="read">50%</div><button id="submit" class="primary">LOCK IN</button></div></div>');$('#answer').oninput=e=>$('#read').textContent=e.target.value+'%';$('#submit').onclick=()=>{s.push(Math.max(0,AfterglowCore.scoreFraction(target,$('#answer').value)));i++;next()}}}next()}function headcount(){let n=18+Math.floor(Math.random()*25);modal('Head Count','Count the faces before the crowd disappears.','<div class="stage"><div><div id="crowd" style="display:grid;grid-template-columns:repeat(7,30px);gap:8px;font-size:23px;color:#ff8caa"></div><p id="hint">Scan and memorize the crowd.</p><input id="answer" class="input" type="number" placeholder="Your count" disabled><button class="primary" id="submit" disabled>SUBMIT</button></div></div>');let crowd=$('#crowd'),hint=$('#hint'),answer=$('#answer'),submit=$('#submit');crowd.innerHTML=Array.from({length:n},()=>'<span>‚óâ</span>').join('');setTimeout(()=>{if(crowd.isConnected){crowd.innerHTML='';hint.textContent='How many faces did you see?';answer.disabled=false;submit.disabled=false;answer.focus()}},2500);submit.onclick=()=>{if(answer.disabled||answer.value==='')return;finish('headcount',AfterglowCore.scoreEstimate(n,answer.value),'There were '+n+' faces in the crowd.')}}function logos(){
+ const marks=[
+  {name:'Nike',draw(ctx){ctx.beginPath();ctx.moveTo(14,58);ctx.quadraticCurveTo(43,48,87,18);ctx.quadraticCurveTo(61,58,34,76);ctx.quadraticCurveTo(20,82,14,58);ctx.closePath();ctx.fill()}},
+  {name:'Apple',draw(ctx){ctx.beginPath();ctx.moveTo(50,35);ctx.bezierCurveTo(39,21,21,29,20,48);ctx.bezierCurveTo(18,67,31,83,42,78);ctx.bezierCurveTo(48,75,52,75,58,78);ctx.bezierCurveTo(70,83,82,65,80,47);ctx.bezierCurveTo(78,29,61,22,50,35);ctx.closePath();ctx.fill();ctx.beginPath();ctx.ellipse(58,21,12,5,-.65,0,Math.PI*2);ctx.fill()}},
+  {name:'Target',draw(ctx){[38,25,12].forEach(r=>{ctx.beginPath();ctx.arc(50,50,r,0,Math.PI*2);ctx.stroke()})}},
+  {name:'Shell',draw(ctx){ctx.beginPath();ctx.moveTo(12,78);ctx.quadraticCurveTo(12,22,50,20);ctx.quadraticCurveTo(88,22,88,78);ctx.closePath();ctx.stroke();[20,35,50,65,80].forEach(x=>{ctx.beginPath();ctx.moveTo(50,22);ctx.lineTo(x,77);ctx.stroke()});ctx.beginPath();ctx.moveTo(12,78);ctx.lineTo(88,78);ctx.stroke()}},
+  {name:'Adidas',draw(ctx){[[18,70,22,30],[42,70,22,30],[66,70,22,30]].forEach(([x,y,w,h])=>{ctx.beginPath();ctx.moveTo(x,y);ctx.lineTo(x+w,y-h);ctx.lineTo(x+w+9,y-h);ctx.lineTo(x+9,y);ctx.closePath();ctx.fill()})}},
+  {name:'Starbucks',draw(ctx){ctx.beginPath();ctx.arc(50,50,38,0,Math.PI*2);ctx.stroke();ctx.beginPath();for(let i=0;i<10;i++){let a=-Math.PI/2+i*Math.PI/5,r=i%2?10:25,x=50+Math.cos(a)*r,y=50+Math.sin(a)*r;i?ctx.lineTo(x,y):ctx.moveTo(x,y)}ctx.closePath();ctx.fill()}}
+ ];
+ const mark=marks[Math.floor(Math.random()*marks.length)];
+ let c,x,strokes=[],active=null,eraser=false,ready=false,timer=null,interval=null;
+ modal('Draw Logos From Memory','Memorize the mark, then draw it after it disappears.','<div class="stage"><div class="stageinner"><b id="logoName"></b><canvas id="c" class="canvas"></canvas><p id="logoHint">Study the logo for 4 seconds.</p><button id="undo" class="secondary" disabled>UNDO</button> <button id="erase" class="secondary" disabled>ERASER OFF</button> <button id="clear" class="secondary" disabled>CLEAR</button> <button id="reveal" class="primary" disabled>SCORE DRAWING</button></div></div>',()=>{clearTimeout(timer);clearInterval(interval)});
+ c=$('#c');x=c.getContext('2d');c.width=c.clientWidth;c.height=220;
+ const name=$('#logoName'),hint=$('#logoHint'),undo=$('#undo'),erase=$('#erase'),clear=$('#clear'),submit=$('#reveal');
+ name.textContent=mark.name;
+ function paintMark(ctx){ctx.save();ctx.translate(c.width/2,c.height/2);let scale=Math.min(c.width,c.height)*.78/100;ctx.scale(scale,scale);ctx.lineWidth=5;ctx.lineCap='round';ctx.lineJoin='round';ctx.strokeStyle='#bdff69';ctx.fillStyle='#bdff69';mark.draw(ctx);ctx.restore()}
+ function paintStrokes(){x.clearRect(0,0,c.width,c.height);for(const stroke of strokes){if(!stroke.points.length)continue;x.save();x.globalCompositeOperation=stroke.erase?'destination-out':'source-over';x.strokeStyle='#bdff69';x.lineWidth=stroke.erase?20:5;x.lineCap='round';x.lineJoin='round';x.beginPath();x.moveTo(stroke.points[0][0],stroke.points[0][1]);for(let i=1;i<stroke.points.length;i++)x.lineTo(stroke.points[i][0],stroke.points[i][1]);if(stroke.points.length===1)x.lineTo(stroke.points[0][0]+.1,stroke.points[0][1]+.1);x.stroke();x.restore()}}
+ function finishStudy(){if(!c.isConnected||ready)return;clearInterval(interval);x.clearRect(0,0,c.width,c.height);name.textContent='';hint.textContent='Your turn. Recreate the mark, then score your drawing.';ready=true;[undo,erase,clear,submit].forEach(b=>b.disabled=false)}
+ function mask(source,width,height){const small=document.createElement('canvas');small.width=width;small.height=height;const ctx=small.getContext('2d');ctx.drawImage(source,0,0,width,height);const pixels=ctx.getImageData(0,0,width,height).data;const out=new Uint8Array(width*height);for(let i=0;i<out.length;i++)out[i]=pixels[i*4+3]>36?1:0;return out}
+ function recallScore(){const cols=88,rows=44,target=document.createElement('canvas');target.width=c.width;target.height=c.height;paintMark(target.getContext('2d'));return AfterglowCore.scoreTraceMatch(mask(target,cols,rows),mask(c,cols,rows),2)}
+ paintMark(x);let remaining=4;interval=setInterval(()=>{remaining--;if(hint.isConnected)hint.textContent='Study the logo‚Ä¶ '+remaining+'s';if(remaining<=0)finishStudy()},1000);timer=setTimeout(finishStudy,4000);
+ c.onpointerdown=e=>{if(!ready)return;active={erase:eraser,points:[[e.offsetX,e.offsetY]]};strokes.push(active);c.setPointerCapture(e.pointerId);paintStrokes()};c.onpointermove=e=>{if(ready&&active){active.points.push([e.offsetX,e.offsetY]);paintStrokes()}};c.onpointerup=()=>{active=null};c.onpointercancel=()=>{active=null};
+ undo.onclick=()=>{strokes.pop();paintStrokes()};erase.onclick=()=>{eraser=!eraser;erase.textContent=eraser?'ERASER ON':'ERASER OFF'};clear.onclick=()=>{strokes=[];paintStrokes()};submit.onclick=()=>{if(!ready)return;finish('logos',recallScore(),'Reference logo: '+mark.name+'. Score compares how closely your drawing follows the mark‚Äôs shape.')};
+}
+function contexto(){let B={ocean:['sea','reef','wave','coral','tide','whale','beach','fish','water','island','salt','ship'],garden:['flower','plant','soil','rose','tree','leaf','seed','green','grass','petal','root','bee'],orbit:['planet','moon','star','space','gravity','sun','comet','satellite','earth','mars','rocket','galaxy'],music:['song','melody','rhythm','sound','piano','guitar','drum','note','voice','band','beat','tune'],bread:['flour','dough','yeast','bake','loaf','butter','toast','wheat','oven','crust','grain','bakery']},keys=Object.keys(B),target=keys[Math.floor(Math.random()*5)],guesses=[];modal('Contexto','Find the word by meaning. Offline edition uses a curated semantic list, not a full language model.','<div class="stage"><div><div id="answer" class="score">?????</div><p>Hint: a common word in a broad category.</p><input id="word" class="input" placeholder="Type a guess"><button id="guess" class="primary">GUESS</button><button id="give" class="secondary">GIVE UP</button><div id="list"></div></div></div>');function submit(){let w=$('#word').value.trim().toLowerCase().replace(/[^a-z-]/g,'').slice(0,24);if(!w||guesses.includes(w))return;guesses.unshift(w);$('#list').innerHTML=guesses.map(g=>'<p>'+escapeHtml(g)+'„ÄÄ#'+(g===target?'1 ‚Äî CORRECT':B[target].includes(g)?2+B[target].indexOf(g)*8:999)+'</p>').join('');if(w===target){$('#answer').textContent=target.toUpperCase();finish('contexto',AfterglowCore.scoreContexto(guesses.length),'The hidden word was '+target+'.')}}$('#guess').onclick=submit;$('#word').onkeydown=e=>{if(e.key==='Enter')submit()};$('#give').onclick=()=>{if($('#answer'))$('#answer').textContent=target.toUpperCase();finish('contexto',0,'The answer was '+target+'.')}}function account(){let n=prompt('Player name (local-only profile; no password or account backend):');if(n&&n.trim().length>1){user=n.trim().replace(/\s+/g,' ').slice(0,24);localStorage.setItem('user',user);render()}}render()})();

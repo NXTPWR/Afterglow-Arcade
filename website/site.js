@@ -79,6 +79,12 @@
     }, { passive: true });
   }
 
+  const accountStatus = $('#accountStatus');
+  const firebaseAvailable = Boolean(window.AfterglowFirebase?.available);
+  if (accountStatus) accountStatus.textContent = firebaseAvailable
+    ? 'EMAIL ACCOUNTS & CLOUD SAVES READY'
+    : 'ACCOUNT SERVICE UNAVAILABLE · GUEST PLAY STILL WORKS';
+
   const dialog = $('#authDialog');
   const authTitle = $('#authTitle');
   const authDescription = $('#authDescription');

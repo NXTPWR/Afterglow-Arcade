@@ -4,13 +4,13 @@ A six-game Windows desktop arcade with a separate informational website.
 
 ## Download
 
-Get the Windows 10/11 x64 installer from the [latest GitHub Release](https://github.com/NXTPWR/Afterglow-Arcade/releases/latest/download/Afterglow-Arcade-Club-Setup.exe). The v1.0.0 installer is about 82 MB. It is unsigned, so Windows may show a SmartScreen warning.
+Get the Windows 10/11 x64 installer from the [latest GitHub Release](https://github.com/NXTPWR/Afterglow-Arcade/releases/latest/download/Afterglow-Arcade-Club-Setup.exe). The v1.1.0 installer is about 82 MB. It is unsigned, so Windows may show a SmartScreen warning.
 
 ## Games and saves
 
 The desktop app includes Perfect Circle, Krillion: The Daily Dive, Perceptle, Head Count, Draw Logos From Memory, and Contexto. Best scores and round history are stored locally on the device. Gamer Percentage appears after all six games have a score and averages each game’s best result.
 
-The account button currently sets a local display name only. Online sign-in, sign-up, password recovery, and cloud sync are not configured; the app does not collect passwords.
+Email/password sign-in, sign-up, and password reset use Firebase Authentication. Signed-in progress syncs best scores and recent rounds to Firestore under owner-only security rules. Guest progress stays local. Firebase web SDK libraries load from Google’s CDN so no extra runtime package is stored in the installer.
 
 ## Build
 

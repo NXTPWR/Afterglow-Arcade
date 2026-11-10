@@ -82,16 +82,83 @@
   const dialog = $('#authDialog');
   const authTitle = $('#authTitle');
   const authDescription = $('#authDescription');
+  const authForm = $('#authForm');
+  const authMessage = $('#authMessage');
+  const authSubmit = $('#authSubmit');
+  const authConfirmWrap = $('#authConfirmWrap');
+  const authModeToggle = $('#authModeToggle');
   const authButtons = $$('[data-auth]');
-  authButtons.forEach((button) => button.addEventListener('click', () => {
-    const signup = button.dataset.auth === 'signup';
+  const signOutButton = $('#navSignOut');
+  let authMode = 'signin';
+  let activeAccount = null;
+  function setAuthMessage(message, isError = false) {
+    if (!authMessage) return;
+    authMessage.textContent = message;
+    authMessage.classList.toggle('is-error', isError);
+  }
+  function setAuthMode(mode) {
+    authMode = mode;
+    const signup = mode === 'signup';
     if (authTitle) authTitle.textContent = signup ? 'Create your player account' : 'Player sign in';
-    if (authDescription) authDescription.textContent = signup
-      ? 'Account creation will be available after secure account services are configured.'
-      : 'Sign-in will be available after secure account services are configured.';
+    if (authDescription) authDescription.textContent = signup ? 'Use your account to keep arcade progress synced with your installs.' : 'Sign in to load your saved arcade progress.';
+    if (authSubmit) authSubmit.textContent = signup ? 'CREATE ACCOUNT' : 'SIGN IN';
+    if (authConfirmWrap) authConfirmWrap.hidden = !signup;
+    const password = $('#authPassword');
+    if (password) password.autocomplete = signup ? 'new-password' : 'current-password';
+    if (authModeToggle) authModeToggle.textContent = signup ? 'Already have an account? Sign in' : 'Need an account? Sign up';
+    if ($('#authReset')) $('#authReset').hidden = signup;
+    setAuthMessage('');
+  }
+  authButtons.forEach((button) => button.addEventListener('click', () => {
+    setAuthMode(button.dataset.auth === 'signup' ? 'signup' : 'signin');
     if (dialog?.showModal) dialog.showModal();
   }));
-  $('#authOk')?.addEventListener('click', () => dialog?.close());
+  authModeToggle?.addEventListener('click', () => setAuthMode(authMode === 'signup' ? 'signin' : 'signup'));
+  authForm?.addEventListener('submit', async (event) => {
+    event.preventDefault();
+    const email = $('#authEmail')?.value.trim();
+    const password = $('#authPassword')?.value || '';
+    if (authMode === 'signup' && password !== ($('#authConfirm')?.value || '')) return setAuthMessage('The passwords do not match.', true);
+    if (!window.AfterglowFirebase?.available) return setAuthMessage('Account services could not load. Check your connection and try again.', true);
+    authSubmit.disabled = true;
+    setAuthMessage(authMode === 'signup' ? 'Creating your account…' : 'Signing in…');
+    try {
+      if (authMode === 'signup') await window.AfterglowFirebase.signUp(email, password);
+      else await window.AfterglowFirebase.signIn(email, password);
+      setAuthMessage('You’re signed in. Your desktop scores will sync when you open the app.');
+      window.setTimeout(() => dialog?.close(), 900);
+    } catch (error) {
+      setAuthMessage(window.AfterglowFirebase.explainError(error), true);
+    } finally {
+      authSubmit.disabled = false;
+    }
+  });
+  $('#authReset')?.addEventListener('click', async () => {
+    const email = $('#authEmail')?.value.trim();
+    if (!email) return setAuthMessage('Enter your email address first.', true);
+    if (!window.AfterglowFirebase?.available) return setAuthMessage('Account services could not load. Check your connection and try again.', true);
+    try {
+      await window.AfterglowFirebase.resetPassword(email);
+      setAuthMessage('If an account exists for that email, Firebase will send password reset instructions.');
+    } catch (error) {
+      setAuthMessage(window.AfterglowFirebase.explainError(error), true);
+    }
+  });
+  signOutButton?.addEventListener('click', async () => {
+    try { await window.AfterglowFirebase?.signOut(); } catch (error) { console.error('Sign out failed:', error); }
+  });
+  window.AfterglowFirebase?.onAuthStateChanged((account) => {
+    activeAccount = account;
+    const signInButton = $('[data-auth="signin"]');
+    const signUpButton = $('[data-auth="signup"]');
+    if (signInButton) signInButton.textContent = account ? account.email : 'Sign In';
+    if (signUpButton) signUpButton.hidden = Boolean(account);
+    if (signOutButton) signOutButton.hidden = !account;
+    if (account && authTitle && dialog?.open) {
+      authTitle.textContent = 'You’re signed in';
+      setAuthMessage('Your account is ready. Open the desktop app to sync scores.');
+    }
+  });
   dialog?.addEventListener('click', (event) => {
     if (event.target === dialog) dialog.close();
   });

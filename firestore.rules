@@ -1,0 +1,30 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function owns(userId) {
+      return request.auth != null && request.auth.uid == userId;
+    }
+    function validProgress(data) {
+      return data.keys().hasAll(['scores', 'history'])
+        && data.keys().hasOnly(['scores', 'history'])
+        && data.scores is map
+        && data.scores.keys().hasOnly(['circle', 'krillion', 'perceptle', 'headcount', 'logos', 'contexto'])
+        && (!('circle' in data.scores) || (data.scores.circle is int && data.scores.circle >= 0 && data.scores.circle <= 100))
+        && (!('krillion' in data.scores) || (data.scores.krillion is int && data.scores.krillion >= 0 && data.scores.krillion <= 100))
+        && (!('perceptle' in data.scores) || (data.scores.perceptle is int && data.scores.perceptle >= 0 && data.scores.perceptle <= 100))
+        && (!('headcount' in data.scores) || (data.scores.headcount is int && data.scores.headcount >= 0 && data.scores.headcount <= 100))
+        && (!('logos' in data.scores) || (data.scores.logos is int && data.scores.logos >= 0 && data.scores.logos <= 100))
+        && (!('contexto' in data.scores) || (data.scores.contexto is int && data.scores.contexto >= 0 && data.scores.contexto <= 100))
+        && data.history is list
+        && data.history.size() <= 300;
+    }
+    match /users/{userId}/arcade/{progressId} {
+      allow read: if owns(userId) && progressId == 'progress';
+      allow create, update: if owns(userId) && progressId == 'progress' && validProgress(request.resource.data);
+      allow delete: if false;
+    }
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

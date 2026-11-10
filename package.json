@@ -1,6 +1,6 @@
 {
   "name": "afterglow-arcade",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "src/main.cjs",
   "scripts": {
     "start": "electron .",
@@ -16,12 +16,13 @@
     "appId": "com.afterglow.arcade",
     "productName": "Afterglow Arcade Club",
     "files": [
-      "src/**/*",
-      "index.html",
-      "styles.css",
-      "game.js",
+      "assets/**/*",
       "game-core.js",
-      "assets/**/*"
+      "game.js",
+      "index.html",
+      "src/**/*",
+      "styles.css",
+      "website/firebase-client.js"
     ],
     "win": {
       "target": "nsis",

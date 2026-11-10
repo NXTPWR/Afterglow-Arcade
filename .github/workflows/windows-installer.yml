@@ -93,7 +93,7 @@ jobs:
             Write-Host "Release $tag already exists; leaving the published asset unchanged."
           } else {
             $asset = (Resolve-Path -LiteralPath "dist/Afterglow-Arcade-Club-Setup.exe").Path
-            gh release create $tag $asset --repo $env:GITHUB_REPOSITORY --title "$($package.build.productName) $($package.version)" --notes "Windows 10/11 x64 installer. Guest progress is saved locally. Online accounts and cloud sync are not configured."
+            gh release create $tag $asset --repo $env:GITHUB_REPOSITORY --title "$($package.build.productName) $($package.version)" --notes "Windows 10/11 x64 installer. Email/password accounts and owner-protected Firebase cloud progress sync are available; guest progress stays local."
           }
 
       - name: Keep an installer artifact for review
